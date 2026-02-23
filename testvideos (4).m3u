@@ -1,0 +1,28 @@
+#EXTM3U x-tvg-url="epg.xml"
+
+#EXTINF:-1 tvg-id="testchannel1" tvg-name="Test Channel 1" tvg-logo="" group-title="Test",Test Channel 1 - 1080p 25fps
+https://res.cloudinary.com/drhy9llhq/video/upload/v1771870368/9667861-hd_1920_1080_25fps_lmxpcc.mp4
+
+#EXTINF:-1 tvg-id="testchannel2" tvg-name="Test Channel 2" tvg-logo="" group-title="Test",Test Channel 2 - 1080p 30fps
+https://res.cloudinary.com/drhy9llhq/video/upload/v1771870369/1795797-hd_1920_1080_30fps_poplgv.mp4
+
+#EXTINF:-1 tvg-id="fox.us" tvg-name="FOX" tvg-logo="" group-title="Test",FOX
+https://res.cloudinary.com/drhy9llhq/video/upload/v1771870373/262215_medium_hrynvn.mp4
+
+#EXTINF:-1 tvg-id="testchannel4" tvg-name="Test Channel 4" tvg-logo="" group-title="Test",Test Channel 4 - SD
+https://res.cloudinary.com/drhy9llhq/video/upload/v1771870375/275633_medium_z4hjdj.mp4
+
+#EXTINF:-1 tvg-id="testchannel5" tvg-name="Test Channel 5" tvg-logo="" group-title="Test",Test Channel 5 - 4K 30fps
+https://res.cloudinary.com/drhy9llhq/video/upload/v1771870373/15439679-uhd_3840_2160_30fps_ekdued.mp4
+
+#EXTINF:-1 tvg-id="testchannel6" tvg-name="Test Channel 6" tvg-logo="" group-title="Test",Test Channel 6 - 720p 59fps
+https://res.cloudinary.com/drhy9llhq/video/upload/v1771870377/854267-hd_1280_720_59fps_uzbmub.mp4
+
+#EXTINF:-1 tvg-id="testchannel7" tvg-name="Test Channel 7" tvg-logo="" group-title="Test",Test Channel 7 - 4K 30fps
+https://res.cloudinary.com/drhy9llhq/video/upload/v1771870379/10882975-uhd_3840_2160_30fps_mimtg2.mp4
+
+#EXTINF:-1 tvg-id="testchannel8" tvg-name="Test Channel 8" tvg-logo="" group-title="Test",Test Channel 8 - 4K 30fps
+https://res.cloudinary.com/drhy9llhq/video/upload/v1771870380/3163534-uhd_3840_2160_30fps_ouxajg.mp4
+
+#EXTINF:-1 tvg-id="testchannel9" tvg-name="Test Channel 9" tvg-logo="" group-title="Test",Test Channel 9 - SD
+https://res.cloudinary.com/drhy9llhq/video/upload/v1771870381/318885_medium_vbzhmy.mp4
