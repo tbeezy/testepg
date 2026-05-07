@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ch1" tvg-name="Channel One" tvg-logo="" group-title="Test",Channel One
+http://fake.stream/ch1
+#EXTINF:-1 tvg-id="ch2" tvg-name="Channel Two" tvg-logo="" group-title="Test",Channel Two
+http://fake.stream/ch2
+#EXTINF:-1 tvg-id="ch3" tvg-name="Channel Three" tvg-logo="" group-title="Test",Channel Three
+http://fake.stream/ch3
+#EXTINF:-1 tvg-id="ch4" tvg-name="Channel Four" tvg-logo="" group-title="Test",Channel Four
+http://fake.stream/ch4
+#EXTINF:-1 tvg-id="ch5" tvg-name="Channel Five" tvg-logo="" group-title="Test",Channel Five
+http://fake.stream/ch5
+#EXTINF:-1 tvg-id="ch6" tvg-name="Channel Six" tvg-logo="" group-title="Test",Channel Six
+http://fake.stream/ch6

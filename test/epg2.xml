@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tv SYSTEM "xmltv.dtd">
+<tv generator-info-name="EPG2-Full">
+
+  <channel id="ch1">
+    <display-name>Channel One</display-name>
+  </channel>
+  <channel id="ch2">
+    <display-name>Channel Two</display-name>
+  </channel>
+  <channel id="ch3">
+    <display-name>Channel Three</display-name>
+  </channel>
+  <channel id="ch4">
+    <display-name>Channel Four</display-name>
+  </channel>
+  <channel id="ch5">
+    <display-name>Channel Five</display-name>
+  </channel>
+  <channel id="ch6">
+    <display-name>Channel Six</display-name>
+  </channel>
+
+  <!-- ch1 programmes (DIFFERENT titles/desc from EPG1 - should be IGNORED by waterfall) -->
+  <programme start="20240101060000 +0000" stop="20240101070000 +0000" channel="ch1">
+    <title lang="en">EPG2: AM Report [SHOULD BE IGNORED]</title>
+    <desc lang="en">If you see this for ch1, the waterfall did NOT correctly ignore EPG2 for already-filled channels.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20240101070000 +0000" stop="20240101090000 +0000" channel="ch1">
+    <title lang="en">EPG2: Rise and Shine [SHOULD BE IGNORED]</title>
+    <desc lang="en">If you see this for ch1, the waterfall did NOT correctly ignore EPG2 for already-filled channels.</desc>
+    <category lang="en">Entertainment</category>
+  </programme>
+  <programme start="20240101090000 +0000" stop="20240101110000 +0000" channel="ch1">
+    <title lang="en">EPG2: World Spotlight [SHOULD BE IGNORED]</title>
+    <desc lang="en">If you see this for ch1, the waterfall did NOT correctly ignore EPG2 for already-filled channels.</desc>
+    <category lang="en">Documentary</category>
+  </programme>
+
+  <!-- ch2 programmes (DIFFERENT titles/desc from EPG1 - should be IGNORED by waterfall) -->
+  <programme start="20240101060000 +0000" stop="20240101080000 +0000" channel="ch2">
+    <title lang="en">EPG2: Film Vault [SHOULD BE IGNORED]</title>
+    <desc lang="en">If you see this for ch2, the waterfall did NOT correctly ignore EPG2 for already-filled channels.</desc>
+    <category lang="en">Movie</category>
+  </programme>
+  <programme start="20240101080000 +0000" stop="20240101100000 +0000" channel="ch2">
+    <title lang="en">EPG2: Chat Hour [SHOULD BE IGNORED]</title>
+    <desc lang="en">If you see this for ch2, the waterfall did NOT correctly ignore EPG2 for already-filled channels.</desc>
+    <category lang="en">Talk Show</category>
+  </programme>
+  <programme start="20240101100000 +0000" stop="20240101120000 +0000" channel="ch2">
+    <title lang="en">EPG2: Game On [SHOULD BE IGNORED]</title>
+    <desc lang="en">If you see this for ch2, the waterfall did NOT correctly ignore EPG2 for already-filled channels.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+
+  <!-- ch3 programmes (DIFFERENT titles/desc from EPG1 - should be IGNORED by waterfall) -->
+  <programme start="20240101060000 +0000" stop="20240101070000 +0000" channel="ch3">
+    <title lang="en">EPG2: Tiny Tots [SHOULD BE IGNORED]</title>
+    <desc lang="en">If you see this for ch3, the waterfall did NOT correctly ignore EPG2 for already-filled channels.</desc>
+    <category lang="en">Children</category>
+  </programme>
+  <programme start="20240101070000 +0000" stop="20240101090000 +0000" channel="ch3">
+    <title lang="en">EPG2: Toon Time [SHOULD BE IGNORED]</title>
+    <desc lang="en">If you see this for ch3, the waterfall did NOT correctly ignore EPG2 for already-filled channels.</desc>
+    <category lang="en">Children</category>
+  </programme>
+  <programme start="20240101090000 +0000" stop="20240101110000 +0000" channel="ch3">
+    <title lang="en">EPG2: Tech Pulse [SHOULD BE IGNORED]</title>
+    <desc lang="en">If you see this for ch3, the waterfall did NOT correctly ignore EPG2 for already-filled channels.</desc>
+    <category lang="en">Educational</category>
+  </programme>
+
+  <!-- ch4 programmes (only in EPG2 - SHOULD be used by waterfall) -->
+  <programme start="20240101060000 +0000" stop="20240101080000 +0000" channel="ch4">
+    <title lang="en">EPG2: Cooking with Style</title>
+    <desc lang="en">A cooking show covering international cuisine. Correctly filled by EPG2 waterfall fallback.</desc>
+    <category lang="en">Lifestyle</category>
+  </programme>
+  <programme start="20240101080000 +0000" stop="20240101100000 +0000" channel="ch4">
+    <title lang="en">EPG2: Travel Diaries</title>
+    <desc lang="en">Exploring destinations worldwide. Correctly filled by EPG2 waterfall fallback.</desc>
+    <category lang="en">Travel</category>
+  </programme>
+  <programme start="20240101100000 +0000" stop="20240101120000 +0000" channel="ch4">
+    <title lang="en">EPG2: Home Makeover</title>
+    <desc lang="en">Interior design and renovation tips. Correctly filled by EPG2 waterfall fallback.</desc>
+    <category lang="en">Lifestyle</category>
+  </programme>
+
+  <!-- ch5 programmes (only in EPG2 - SHOULD be used by waterfall) -->
+  <programme start="20240101060000 +0000" stop="20240101070000 +0000" channel="ch5">
+    <title lang="en">EPG2: Fitness First</title>
+    <desc lang="en">Morning workout and wellness routines. Correctly filled by EPG2 waterfall fallback.</desc>
+    <category lang="en">Health</category>
+  </programme>
+  <programme start="20240101070000 +0000" stop="20240101090000 +0000" channel="ch5">
+    <title lang="en">EPG2: Nature's Wonders</title>
+    <desc lang="en">Wildlife and nature documentary. Correctly filled by EPG2 waterfall fallback.</desc>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20240101090000 +0000" stop="20240101110000 +0000" channel="ch5">
+    <title lang="en">EPG2: History Uncovered</title>
+    <desc lang="en">Deep dive into historical events. Correctly filled by EPG2 waterfall fallback.</desc>
+    <category lang="en">Educational</category>
+  </programme>
+
+  <!-- ch6 programmes (only in EPG2 - SHOULD be used by waterfall) -->
+  <programme start="20240101060000 +0000" stop="20240101080000 +0000" channel="ch6">
+    <title lang="en">EPG2: Comedy Central Block</title>
+    <desc lang="en">Stand-up and sketch comedy highlights. Correctly filled by EPG2 waterfall fallback.</desc>
+    <category lang="en">Comedy</category>
+  </programme>
+  <programme start="20240101080000 +0000" stop="20240101100000 +0000" channel="ch6">
+    <title lang="en">EPG2: Drama Series</title>
+    <desc lang="en">Gripping episodic drama. Correctly filled by EPG2 waterfall fallback.</desc>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20240101100000 +0000" stop="20240101120000 +0000" channel="ch6">
+    <title lang="en">EPG2: Tech Review Show</title>
+    <desc lang="en">Latest gadgets and tech news. Correctly filled by EPG2 waterfall fallback.</desc>
+    <category lang="en">Technology</category>
+  </programme>
+
+</tv>
