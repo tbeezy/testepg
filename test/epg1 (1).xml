@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tv SYSTEM "xmltv.dtd">
+<tv generator-info-name="EPG1-Partial">
+
+  <channel id="ch1">
+    <display-name>Channel One</display-name>
+  </channel>
+  <channel id="ch2">
+    <display-name>Channel Two</display-name>
+  </channel>
+  <channel id="ch3">
+    <display-name>Channel Three</display-name>
+  </channel>
+
+  <!-- ch1 programmes -->
+  <programme start="20260507060000 +0000" stop="20260507070000 +0000" channel="ch1">
+    <title lang="en">EPG1: Morning News</title>
+    <desc lang="en">The morning news bulletin from EPG source 1.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260507070000 +0000" stop="20260507090000 +0000" channel="ch1">
+    <title lang="en">EPG1: Breakfast Show</title>
+    <desc lang="en">A lively breakfast programme from EPG source 1.</desc>
+    <category lang="en">Entertainment</category>
+  </programme>
+  <programme start="20260507090000 +0000" stop="20260507110000 +0000" channel="ch1">
+    <title lang="en">EPG1: Documentary Hour</title>
+    <desc lang="en">An in-depth documentary, sourced from EPG 1.</desc>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20260507110000 +0000" stop="20260507130000 +0000" channel="ch1">
+    <title lang="en">EPG1: Midday Report</title>
+    <desc lang="en">Lunchtime news and current affairs from EPG source 1.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260507130000 +0000" stop="20260507150000 +0000" channel="ch1">
+    <title lang="en">EPG1: Afternoon Magazine</title>
+    <desc lang="en">Lifestyle and culture magazine show from EPG source 1.</desc>
+    <category lang="en">Entertainment</category>
+  </programme>
+  <programme start="20260507150000 +0000" stop="20260507170000 +0000" channel="ch1">
+    <title lang="en">EPG1: World Affairs</title>
+    <desc lang="en">International news analysis from EPG source 1.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260507170000 +0000" stop="20260507190000 +0000" channel="ch1">
+    <title lang="en">EPG1: Evening Drive</title>
+    <desc lang="en">Evening commute news and entertainment from EPG source 1.</desc>
+    <category lang="en">Entertainment</category>
+  </programme>
+  <programme start="20260507190000 +0000" stop="20260507210000 +0000" channel="ch1">
+    <title lang="en">EPG1: Prime News</title>
+    <desc lang="en">The flagship evening news programme from EPG source 1.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260507210000 +0000" stop="20260507230000 +0000" channel="ch1">
+    <title lang="en">EPG1: Late Night Talk</title>
+    <desc lang="en">Late night interviews and discussion from EPG source 1.</desc>
+    <category lang="en">Talk Show</category>
+  </programme>
+  <programme start="20260507230000 +0000" stop="20260508010000 +0000" channel="ch1">
+    <title lang="en">EPG1: Overnight News</title>
+    <desc lang="en">Overnight news coverage from EPG source 1.</desc>
+    <category lang="en">News</category>
+  </programme>
+
+  <!-- ch2 programmes -->
+  <programme start="20260507060000 +0000" stop="20260507080000 +0000" channel="ch2">
+    <title lang="en">EPG1: Early Cinema</title>
+    <desc lang="en">Classic films from the EPG 1 catalogue.</desc>
+    <category lang="en">Movie</category>
+  </programme>
+  <programme start="20260507080000 +0000" stop="20260507100000 +0000" channel="ch2">
+    <title lang="en">EPG1: Talk Time</title>
+    <desc lang="en">Morning talk show, EPG 1 edition.</desc>
+    <category lang="en">Talk Show</category>
+  </programme>
+  <programme start="20260507100000 +0000" stop="20260507120000 +0000" channel="ch2">
+    <title lang="en">EPG1: Sports Roundup</title>
+    <desc lang="en">Sports highlights and analysis from EPG source 1.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260507120000 +0000" stop="20260507140000 +0000" channel="ch2">
+    <title lang="en">EPG1: Lunchtime Movie</title>
+    <desc lang="en">A midday feature film from EPG source 1.</desc>
+    <category lang="en">Movie</category>
+  </programme>
+  <programme start="20260507140000 +0000" stop="20260507160000 +0000" channel="ch2">
+    <title lang="en">EPG1: Afternoon Sport</title>
+    <desc lang="en">Live and recorded sports action from EPG source 1.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260507160000 +0000" stop="20260507180000 +0000" channel="ch2">
+    <title lang="en">EPG1: Game Show Hour</title>
+    <desc lang="en">Popular game shows from EPG source 1.</desc>
+    <category lang="en">Game Show</category>
+  </programme>
+  <programme start="20260507180000 +0000" stop="20260507200000 +0000" channel="ch2">
+    <title lang="en">EPG1: Evening Drama</title>
+    <desc lang="en">Prime time drama series from EPG source 1.</desc>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20260507200000 +0000" stop="20260507220000 +0000" channel="ch2">
+    <title lang="en">EPG1: Feature Film</title>
+    <desc lang="en">Tonight's main feature film from EPG source 1.</desc>
+    <category lang="en">Movie</category>
+  </programme>
+  <programme start="20260507220000 +0000" stop="20260508000000 +0000" channel="ch2">
+    <title lang="en">EPG1: Late Movie</title>
+    <desc lang="en">A late night film from EPG source 1.</desc>
+    <category lang="en">Movie</category>
+  </programme>
+  <programme start="20260508000000 +0000" stop="20260508020000 +0000" channel="ch2">
+    <title lang="en">EPG1: Midnight Cinema</title>
+    <desc lang="en">After-midnight film programming from EPG source 1.</desc>
+    <category lang="en">Movie</category>
+  </programme>
+
+  <!-- ch3 programmes -->
+  <programme start="20260507060000 +0000" stop="20260507070000 +0000" channel="ch3">
+    <title lang="en">EPG1: Kids Corner</title>
+    <desc lang="en">Children's programming from EPG source 1.</desc>
+    <category lang="en">Children</category>
+  </programme>
+  <programme start="20260507070000 +0000" stop="20260507090000 +0000" channel="ch3">
+    <title lang="en">EPG1: Cartoon Block</title>
+    <desc lang="en">Animated cartoons, EPG 1 selection.</desc>
+    <category lang="en">Children</category>
+  </programme>
+  <programme start="20260507090000 +0000" stop="20260507110000 +0000" channel="ch3">
+    <title lang="en">EPG1: Science Today</title>
+    <desc lang="en">Science and technology news from EPG 1.</desc>
+    <category lang="en">Educational</category>
+  </programme>
+  <programme start="20260507110000 +0000" stop="20260507130000 +0000" channel="ch3">
+    <title lang="en">EPG1: Nature Watch</title>
+    <desc lang="en">Wildlife and nature programming for all ages from EPG source 1.</desc>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20260507130000 +0000" stop="20260507150000 +0000" channel="ch3">
+    <title lang="en">EPG1: After School Special</title>
+    <desc lang="en">Educational afternoon content from EPG source 1.</desc>
+    <category lang="en">Educational</category>
+  </programme>
+  <programme start="20260507150000 +0000" stop="20260507170000 +0000" channel="ch3">
+    <title lang="en">EPG1: Cartoon Afternoon</title>
+    <desc lang="en">More animated fun from EPG source 1.</desc>
+    <category lang="en">Children</category>
+  </programme>
+  <programme start="20260507170000 +0000" stop="20260507190000 +0000" channel="ch3">
+    <title lang="en">EPG1: Family Hour</title>
+    <desc lang="en">Family-friendly entertainment from EPG source 1.</desc>
+    <category lang="en">Entertainment</category>
+  </programme>
+  <programme start="20260507190000 +0000" stop="20260507210000 +0000" channel="ch3">
+    <title lang="en">EPG1: Prime Drama</title>
+    <desc lang="en">Evening drama for the whole family from EPG source 1.</desc>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20260507210000 +0000" stop="20260507230000 +0000" channel="ch3">
+    <title lang="en">EPG1: Documentary Special</title>
+    <desc lang="en">A special documentary feature from EPG source 1.</desc>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20260507230000 +0000" stop="20260508010000 +0000" channel="ch3">
+    <title lang="en">EPG1: Late Night Doc</title>
+    <desc lang="en">Late night documentary from EPG source 1.</desc>
+    <category lang="en">Documentary</category>
+  </programme>
+
+</tv>
