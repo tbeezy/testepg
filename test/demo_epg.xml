@@ -1,0 +1,1063 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tv SYSTEM "xmltv.dtd">
+<tv generator-info-name="DemoEPG" generator-info-url="https://example.com">
+  <channel id="ch.nova1"><display-name lang="en">Nova 1</display-name></channel>
+  <channel id="ch.pulse"><display-name lang="en">Pulse TV</display-name></channel>
+  <channel id="ch.metro"><display-name lang="en">Metro News 24</display-name></channel>
+  <channel id="ch.horizon"><display-name lang="en">Horizon Sports</display-name></channel>
+  <channel id="ch.bloom"><display-name lang="en">Bloom Lifestyle</display-name></channel>
+  <channel id="ch.axiom"><display-name lang="en">Axiom Science</display-name></channel>
+  <channel id="ch.cinemax7"><display-name lang="en">CineMax 7</display-name></channel>
+  <channel id="ch.kidzone"><display-name lang="en">KidZone</display-name></channel>
+  <channel id="ch.groove"><display-name lang="en">Groove Music TV</display-name></channel>
+  <programme start="20260511000000 -0500" stop="20260511010000 -0500" channel="ch.nova1">
+    <title lang="en">Morning Stir</title>
+    <desc lang="en">A fresh start to the day with Nova 1's flagship morning variety show. Hosts Carla Voss and Danny Egan bring celebrity interviews, cooking demos, and feel-good stories.</desc>
+    <category lang="en">Talk</category>
+  </programme>
+  <programme start="20260511010000 -0500" stop="20260511020000 -0500" channel="ch.nova1">
+    <title lang="en">The Whitmore Case</title>
+    <desc lang="en">Season 3, Ep 7 — Detective Ines Parrott closes in on the suspect who has been eluding her for three episodes. A tense confrontation unfolds at the river warehouse.</desc>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20260511020000 -0500" stop="20260511023000 -0500" channel="ch.nova1">
+    <title lang="en">Nova Midday Report</title>
+    <desc lang="en">A concise look at the top stories of the morning, presented by anchor Solene Richter.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260511023000 -0500" stop="20260511040000 -0500" channel="ch.nova1">
+    <title lang="en">Golden Afternoon Movie: The Long Shore</title>
+    <desc lang="en">A 1987 classic starring Raymond Holt as a lighthouse keeper whose quiet life is upended when a stranger washes ashore. Beautifully shot on the Pacific coast.</desc>
+    <category lang="en">Movie</category>
+  </programme>
+  <programme start="20260511050000 -0500" stop="20260511060000 -0500" channel="ch.nova1">
+    <title lang="en">Cook and Conquer</title>
+    <desc lang="en">Chef Mario Delacroix challenges two home cooks to recreate his signature bouillabaisse in under 45 minutes with a pantry of mystery ingredients.</desc>
+    <category lang="en">Cooking</category>
+  </programme>
+  <programme start="20260511060000 -0500" stop="20260511070000 -0500" channel="ch.nova1">
+    <title lang="en">Evening Edition</title>
+    <desc lang="en">Nova 1's primetime newscast. Anchor Solene Richter leads in-depth coverage of the day's top domestic and international stories.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260511070000 -0500" stop="20260511083000 -0500" channel="ch.nova1">
+    <title lang="en">The Whitmore Case Encore</title>
+    <desc lang="en">Catch up on Season 3, Ep 6 before tonight's new episode. Detective Parrott discovers a second set of fingerprints at the dockside apartment.</desc>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20260511083000 -0500" stop="20260511093000 -0500" channel="ch.nova1">
+    <title lang="en">Late Night with Jojo Kamau</title>
+    <desc lang="en">Comedian and host Jojo Kamau sits down with actress Priya Sandhu and musician Travis Lorne. Musical guest: The Elevators.</desc>
+    <category lang="en">Talk</category>
+  </programme>
+  <programme start="20260511093000 -0500" stop="20260511113000 -0500" channel="ch.nova1">
+    <title lang="en">Overnight Cinema: Cold Harbor</title>
+    <desc lang="en">A gripping Cold War thriller from 1991. Two rival spies discover they are hunting the same target: each other's handler.</desc>
+    <category lang="en">Movie</category>
+  </programme>
+  <programme start="20260511113000 -0500" stop="20260511140000 -0500" channel="ch.nova1">
+    <title lang="en">Nova 1 Overnight Block</title>
+    <desc lang="en">Classic episodes from Nova 1's archive library, running through the early morning hours.</desc>
+    <category lang="en">Entertainment</category>
+  </programme>
+  <programme start="20260512000000 -0500" stop="20260512010000 -0500" channel="ch.nova1">
+    <title lang="en">Morning Stir</title>
+    <desc lang="en">A fresh start to the day with Nova 1's flagship morning variety show. Hosts Carla Voss and Danny Egan bring celebrity interviews, cooking demos, and feel-good stories.</desc>
+    <category lang="en">Talk</category>
+  </programme>
+  <programme start="20260512010000 -0500" stop="20260512020000 -0500" channel="ch.nova1">
+    <title lang="en">The Whitmore Case</title>
+    <desc lang="en">Season 3, Ep 7 — Detective Ines Parrott closes in on the suspect who has been eluding her for three episodes. A tense confrontation unfolds at the river warehouse.</desc>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20260512020000 -0500" stop="20260512023000 -0500" channel="ch.nova1">
+    <title lang="en">Nova Midday Report</title>
+    <desc lang="en">A concise look at the top stories of the morning, presented by anchor Solene Richter.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260512023000 -0500" stop="20260512040000 -0500" channel="ch.nova1">
+    <title lang="en">Golden Afternoon Movie: The Long Shore</title>
+    <desc lang="en">A 1987 classic starring Raymond Holt as a lighthouse keeper whose quiet life is upended when a stranger washes ashore. Beautifully shot on the Pacific coast.</desc>
+    <category lang="en">Movie</category>
+  </programme>
+  <programme start="20260512050000 -0500" stop="20260512060000 -0500" channel="ch.nova1">
+    <title lang="en">Cook and Conquer</title>
+    <desc lang="en">Chef Mario Delacroix challenges two home cooks to recreate his signature bouillabaisse in under 45 minutes with a pantry of mystery ingredients.</desc>
+    <category lang="en">Cooking</category>
+  </programme>
+  <programme start="20260512060000 -0500" stop="20260512070000 -0500" channel="ch.nova1">
+    <title lang="en">Evening Edition</title>
+    <desc lang="en">Nova 1's primetime newscast. Anchor Solene Richter leads in-depth coverage of the day's top domestic and international stories.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260512070000 -0500" stop="20260512083000 -0500" channel="ch.nova1">
+    <title lang="en">The Whitmore Case Encore</title>
+    <desc lang="en">Catch up on Season 3, Ep 6 before tonight's new episode. Detective Parrott discovers a second set of fingerprints at the dockside apartment.</desc>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20260512083000 -0500" stop="20260512093000 -0500" channel="ch.nova1">
+    <title lang="en">Late Night with Jojo Kamau</title>
+    <desc lang="en">Comedian and host Jojo Kamau sits down with actress Priya Sandhu and musician Travis Lorne. Musical guest: The Elevators.</desc>
+    <category lang="en">Talk</category>
+  </programme>
+  <programme start="20260512093000 -0500" stop="20260512113000 -0500" channel="ch.nova1">
+    <title lang="en">Overnight Cinema: Cold Harbor</title>
+    <desc lang="en">A gripping Cold War thriller from 1991. Two rival spies discover they are hunting the same target: each other's handler.</desc>
+    <category lang="en">Movie</category>
+  </programme>
+  <programme start="20260512113000 -0500" stop="20260512140000 -0500" channel="ch.nova1">
+    <title lang="en">Nova 1 Overnight Block</title>
+    <desc lang="en">Classic episodes from Nova 1's archive library, running through the early morning hours.</desc>
+    <category lang="en">Entertainment</category>
+  </programme>
+  <programme start="20260511000000 -0500" stop="20260511010000 -0500" channel="ch.pulse">
+    <title lang="en">Pulse AM</title>
+    <desc lang="en">Start your morning with Pulse TV's energetic breakfast show. News, lifestyle tips, and viewer call-ins with hosts Bea Nakamura and Chris Farwell.</desc>
+    <category lang="en">Talk</category>
+  </programme>
+  <programme start="20260511010000 -0500" stop="20260511020000 -0500" channel="ch.pulse">
+    <title lang="en">Renovation Rescue</title>
+    <desc lang="en">Ep 12 — The Santos family's kitchen remodel hits a major snag when the contractor discovers original 1940s plumbing behind the walls.</desc>
+    <category lang="en">Reality</category>
+  </programme>
+  <programme start="20260511020000 -0500" stop="20260511030000 -0500" channel="ch.pulse">
+    <title lang="en">Renovation Rescue Repeat</title>
+    <desc lang="en">Ep 11 — Contractor Maya Osei races against a wedding deadline to finish a couple's dream master suite. Will the custom closet arrive on time?</desc>
+    <category lang="en">Reality</category>
+  </programme>
+  <programme start="20260511030000 -0500" stop="20260511040000 -0500" channel="ch.pulse">
+    <title lang="en">Dating in the Dark</title>
+    <desc lang="en">Six singles navigate the tricky world of modern romance using only voice and personality — no looks allowed. Hosted by Portia James.</desc>
+    <category lang="en">Reality</category>
+  </programme>
+  <programme start="20260511040000 -0500" stop="20260511050000 -0500" channel="ch.pulse">
+    <title lang="en">Pulse Afternoon News</title>
+    <desc lang="en">Rolling coverage of today's headlines, weather, and traffic. Presented live from the Pulse TV studio in downtown.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260511050000 -0500" stop="20260511063000 -0500" channel="ch.pulse">
+    <title lang="en">The Great Bake-Off Challenge</title>
+    <desc lang="en">Twelve amateur bakers tackle this week's theme: tropical flavors. Who will impress judges Helena Marsh and Pierre Fontaine?</desc>
+    <category lang="en">Reality</category>
+  </programme>
+  <programme start="20260511063000 -0500" stop="20260511073000 -0500" channel="ch.pulse">
+    <title lang="en">Pulse Evening News</title>
+    <desc lang="en">Your comprehensive evening update. Anchor Derek Yuen covers politics, business, and the stories that matter most.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260511073000 -0500" stop="20260511090000 -0500" channel="ch.pulse">
+    <title lang="en">Mansion Hunters</title>
+    <desc lang="en">Newlyweds Claudia and Terrence search for their forever home in the hills of Cascadia. Budget: 1.2 million dollars. Expectations: sky-high.</desc>
+    <category lang="en">Reality</category>
+  </programme>
+  <programme start="20260511090000 -0500" stop="20260511100000 -0500" channel="ch.pulse">
+    <title lang="en">Late Pulse</title>
+    <desc lang="en">The day's best clips and viral moments curated by the Pulse team, with commentary from rotating guest panelists.</desc>
+    <category lang="en">Entertainment</category>
+  </programme>
+  <programme start="20260511100000 -0500" stop="20260511140000 -0500" channel="ch.pulse">
+    <title lang="en">Pulse Overnight</title>
+    <desc lang="en">Relaxing nature footage and ambient music to carry you through the night.</desc>
+    <category lang="en">Entertainment</category>
+  </programme>
+  <programme start="20260512000000 -0500" stop="20260512010000 -0500" channel="ch.pulse">
+    <title lang="en">Pulse AM</title>
+    <desc lang="en">Start your morning with Pulse TV's energetic breakfast show. News, lifestyle tips, and viewer call-ins with hosts Bea Nakamura and Chris Farwell.</desc>
+    <category lang="en">Talk</category>
+  </programme>
+  <programme start="20260512010000 -0500" stop="20260512020000 -0500" channel="ch.pulse">
+    <title lang="en">Renovation Rescue</title>
+    <desc lang="en">Ep 12 — The Santos family's kitchen remodel hits a major snag when the contractor discovers original 1940s plumbing behind the walls.</desc>
+    <category lang="en">Reality</category>
+  </programme>
+  <programme start="20260512020000 -0500" stop="20260512030000 -0500" channel="ch.pulse">
+    <title lang="en">Renovation Rescue Repeat</title>
+    <desc lang="en">Ep 11 — Contractor Maya Osei races against a wedding deadline to finish a couple's dream master suite. Will the custom closet arrive on time?</desc>
+    <category lang="en">Reality</category>
+  </programme>
+  <programme start="20260512030000 -0500" stop="20260512040000 -0500" channel="ch.pulse">
+    <title lang="en">Dating in the Dark</title>
+    <desc lang="en">Six singles navigate the tricky world of modern romance using only voice and personality — no looks allowed. Hosted by Portia James.</desc>
+    <category lang="en">Reality</category>
+  </programme>
+  <programme start="20260512040000 -0500" stop="20260512050000 -0500" channel="ch.pulse">
+    <title lang="en">Pulse Afternoon News</title>
+    <desc lang="en">Rolling coverage of today's headlines, weather, and traffic. Presented live from the Pulse TV studio in downtown.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260512050000 -0500" stop="20260512063000 -0500" channel="ch.pulse">
+    <title lang="en">The Great Bake-Off Challenge</title>
+    <desc lang="en">Twelve amateur bakers tackle this week's theme: tropical flavors. Who will impress judges Helena Marsh and Pierre Fontaine?</desc>
+    <category lang="en">Reality</category>
+  </programme>
+  <programme start="20260512063000 -0500" stop="20260512073000 -0500" channel="ch.pulse">
+    <title lang="en">Pulse Evening News</title>
+    <desc lang="en">Your comprehensive evening update. Anchor Derek Yuen covers politics, business, and the stories that matter most.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260512073000 -0500" stop="20260512090000 -0500" channel="ch.pulse">
+    <title lang="en">Mansion Hunters</title>
+    <desc lang="en">Newlyweds Claudia and Terrence search for their forever home in the hills of Cascadia. Budget: 1.2 million dollars. Expectations: sky-high.</desc>
+    <category lang="en">Reality</category>
+  </programme>
+  <programme start="20260512090000 -0500" stop="20260512100000 -0500" channel="ch.pulse">
+    <title lang="en">Late Pulse</title>
+    <desc lang="en">The day's best clips and viral moments curated by the Pulse team, with commentary from rotating guest panelists.</desc>
+    <category lang="en">Entertainment</category>
+  </programme>
+  <programme start="20260512100000 -0500" stop="20260512140000 -0500" channel="ch.pulse">
+    <title lang="en">Pulse Overnight</title>
+    <desc lang="en">Relaxing nature footage and ambient music to carry you through the night.</desc>
+    <category lang="en">Entertainment</category>
+  </programme>
+  <programme start="20260511000000 -0500" stop="20260511010000 -0500" channel="ch.metro">
+    <title lang="en">Metro Morning Briefing</title>
+    <desc lang="en">The overnight stories that shaped the world. Anchor Gwen Holley breaks down the key headlines with correspondents across the region.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260511010000 -0500" stop="20260511013000 -0500" channel="ch.metro">
+    <title lang="en">Business First</title>
+    <desc lang="en">Markets open, commodities update, and expert analysis from the Metro Finance Desk.</desc>
+    <category lang="en">Business</category>
+  </programme>
+  <programme start="20260511013000 -0500" stop="20260511020000 -0500" channel="ch.metro">
+    <title lang="en">Weather and Traffic</title>
+    <desc lang="en">Meteorologist Ray Patel delivers a detailed 5-day forecast, followed by live traffic cameras for the metro area.</desc>
+    <category lang="en">Weather</category>
+  </programme>
+  <programme start="20260511020000 -0500" stop="20260511030000 -0500" channel="ch.metro">
+    <title lang="en">Metro Live</title>
+    <desc lang="en">Continuous rolling news coverage with breaking updates and live press conference feeds.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260511030000 -0500" stop="20260511033000 -0500" channel="ch.metro">
+    <title lang="en">Tech Today</title>
+    <desc lang="en">The latest in consumer technology, cybersecurity, and the biggest stories from Silicon Valley.</desc>
+    <category lang="en">Technology</category>
+  </programme>
+  <programme start="20260511033000 -0500" stop="20260511040000 -0500" channel="ch.metro">
+    <title lang="en">Health Matters</title>
+    <desc lang="en">Dr. Simone Okafor answers viewer questions and covers the latest medical research and public health developments.</desc>
+    <category lang="en">Health</category>
+  </programme>
+  <programme start="20260511040000 -0500" stop="20260511050000 -0500" channel="ch.metro">
+    <title lang="en">Midday Report</title>
+    <desc lang="en">A comprehensive look at the stories developing through the morning, with live interviews from newsmakers.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260511050000 -0500" stop="20260511060000 -0500" channel="ch.metro">
+    <title lang="en">Afternoon Update</title>
+    <desc lang="en">Continuing coverage as stories develop. International correspondents file reports from the field.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260511060000 -0500" stop="20260511070000 -0500" channel="ch.metro">
+    <title lang="en">Metro Evening News</title>
+    <desc lang="en">The flagship primetime newscast. Anchors Gwen Holley and Marcus Webb lead 60 minutes of comprehensive reporting.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260511070000 -0500" stop="20260511080000 -0500" channel="ch.metro">
+    <title lang="en">The Metro Roundtable</title>
+    <desc lang="en">Political analysts and journalists debate the week's top stories. Tonight: infrastructure spending and its impact on local economies.</desc>
+    <category lang="en">Talk</category>
+  </programme>
+  <programme start="20260511080000 -0500" stop="20260511083000 -0500" channel="ch.metro">
+    <title lang="en">Sports Central</title>
+    <desc lang="en">Scores, highlights, and post-game analysis from across the major leagues.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260511083000 -0500" stop="20260511090000 -0500" channel="ch.metro">
+    <title lang="en">Late Night Headlines</title>
+    <desc lang="en">A final look at the day's top stories before midnight.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260511090000 -0500" stop="20260511100000 -0500" channel="ch.metro">
+    <title lang="en">World Report</title>
+    <desc lang="en">In-depth international coverage from Metro's global correspondents. Tonight's focus: trade tensions and diplomatic negotiations.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260511100000 -0500" stop="20260511140000 -0500" channel="ch.metro">
+    <title lang="en">Metro Overnight</title>
+    <desc lang="en">Continuous news ticker with archive documentary programming through the night.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260512000000 -0500" stop="20260512010000 -0500" channel="ch.metro">
+    <title lang="en">Metro Morning Briefing</title>
+    <desc lang="en">The overnight stories that shaped the world. Anchor Gwen Holley breaks down the key headlines with correspondents across the region.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260512010000 -0500" stop="20260512013000 -0500" channel="ch.metro">
+    <title lang="en">Business First</title>
+    <desc lang="en">Markets open, commodities update, and expert analysis from the Metro Finance Desk.</desc>
+    <category lang="en">Business</category>
+  </programme>
+  <programme start="20260512013000 -0500" stop="20260512020000 -0500" channel="ch.metro">
+    <title lang="en">Weather and Traffic</title>
+    <desc lang="en">Meteorologist Ray Patel delivers a detailed 5-day forecast, followed by live traffic cameras for the metro area.</desc>
+    <category lang="en">Weather</category>
+  </programme>
+  <programme start="20260512020000 -0500" stop="20260512030000 -0500" channel="ch.metro">
+    <title lang="en">Metro Live</title>
+    <desc lang="en">Continuous rolling news coverage with breaking updates and live press conference feeds.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260512030000 -0500" stop="20260512033000 -0500" channel="ch.metro">
+    <title lang="en">Tech Today</title>
+    <desc lang="en">The latest in consumer technology, cybersecurity, and the biggest stories from Silicon Valley.</desc>
+    <category lang="en">Technology</category>
+  </programme>
+  <programme start="20260512033000 -0500" stop="20260512040000 -0500" channel="ch.metro">
+    <title lang="en">Health Matters</title>
+    <desc lang="en">Dr. Simone Okafor answers viewer questions and covers the latest medical research and public health developments.</desc>
+    <category lang="en">Health</category>
+  </programme>
+  <programme start="20260512040000 -0500" stop="20260512050000 -0500" channel="ch.metro">
+    <title lang="en">Midday Report</title>
+    <desc lang="en">A comprehensive look at the stories developing through the morning, with live interviews from newsmakers.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260512050000 -0500" stop="20260512060000 -0500" channel="ch.metro">
+    <title lang="en">Afternoon Update</title>
+    <desc lang="en">Continuing coverage as stories develop. International correspondents file reports from the field.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260512060000 -0500" stop="20260512070000 -0500" channel="ch.metro">
+    <title lang="en">Metro Evening News</title>
+    <desc lang="en">The flagship primetime newscast. Anchors Gwen Holley and Marcus Webb lead 60 minutes of comprehensive reporting.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260512070000 -0500" stop="20260512080000 -0500" channel="ch.metro">
+    <title lang="en">The Metro Roundtable</title>
+    <desc lang="en">Political analysts and journalists debate the week's top stories. Tonight: infrastructure spending and its impact on local economies.</desc>
+    <category lang="en">Talk</category>
+  </programme>
+  <programme start="20260512080000 -0500" stop="20260512083000 -0500" channel="ch.metro">
+    <title lang="en">Sports Central</title>
+    <desc lang="en">Scores, highlights, and post-game analysis from across the major leagues.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260512083000 -0500" stop="20260512090000 -0500" channel="ch.metro">
+    <title lang="en">Late Night Headlines</title>
+    <desc lang="en">A final look at the day's top stories before midnight.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260512090000 -0500" stop="20260512100000 -0500" channel="ch.metro">
+    <title lang="en">World Report</title>
+    <desc lang="en">In-depth international coverage from Metro's global correspondents. Tonight's focus: trade tensions and diplomatic negotiations.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260512100000 -0500" stop="20260512140000 -0500" channel="ch.metro">
+    <title lang="en">Metro Overnight</title>
+    <desc lang="en">Continuous news ticker with archive documentary programming through the night.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260511000000 -0500" stop="20260511010000 -0500" channel="ch.horizon">
+    <title lang="en">Morning Kickoff</title>
+    <desc lang="en">Start the day with highlights from last night's games plus a preview of today's schedule. Hosted by Darius Cole and Paula Strand.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260511010000 -0500" stop="20260511030000 -0500" channel="ch.horizon">
+    <title lang="en">Replay: Lakeside Classic Tennis Open Men's Final</title>
+    <desc lang="en">Full uninterrupted replay of the Lakeside Classic final between Marco Delgado and qualifier Yannick Borel.</desc>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20260511030000 -0500" stop="20260511040000 -0500" channel="ch.horizon">
+    <title lang="en">Horizon Hotlist</title>
+    <desc lang="en">The biggest plays, upsets, and moments from the past 7 days ranked by our panel of analysts.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260511040000 -0500" stop="20260511053000 -0500" channel="ch.horizon">
+    <title lang="en">LIVE: Northgate United vs Riverport FC</title>
+    <desc lang="en">Kickoff at 3:00pm. Two playoff-bound sides meet in a crucial mid-season clash at Northgate Stadium. Commentary by Sean O'Brien and Tanya Reeves.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20260511053000 -0500" stop="20260511060000 -0500" channel="ch.horizon">
+    <title lang="en">Post-Match Analysis</title>
+    <desc lang="en">Immediate reaction and tactical breakdown from tonight's Northgate United match. Player ratings and manager press conference.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20260511060000 -0500" stop="20260511073000 -0500" channel="ch.horizon">
+    <title lang="en">LIVE: Coastal Sharks vs Inland Raptors Basketball</title>
+    <desc lang="en">Conference clash between two top-four sides. Tip-off at 6:30pm local time. Commentary by Marcus Hill.</desc>
+    <category lang="en">Basketball</category>
+  </programme>
+  <programme start="20260511073000 -0500" stop="20260511090000 -0500" channel="ch.horizon">
+    <title lang="en">Motorsport Weekly</title>
+    <desc lang="en">This week's highlights from the Grand Prix circuit, rallycross championship, and endurance racing series.</desc>
+    <category lang="en">Motorsport</category>
+  </programme>
+  <programme start="20260511090000 -0500" stop="20260511100000 -0500" channel="ch.horizon">
+    <title lang="en">The Horizon Desk</title>
+    <desc lang="en">Evening sports news, scores, and extended post-game interviews.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260511100000 -0500" stop="20260511120000 -0500" channel="ch.horizon">
+    <title lang="en">Replay: Championship Cycling Stage 14</title>
+    <desc lang="en">Full replay of the dramatic mountain stage that reshuffled the general classification. Three breakaway riders and a summit finish.</desc>
+    <category lang="en">Cycling</category>
+  </programme>
+  <programme start="20260511120000 -0500" stop="20260511150000 -0500" channel="ch.horizon">
+    <title lang="en">Overnight Classics</title>
+    <desc lang="en">Archive classics from Horizon's vault: iconic matches, championship moments, and legendary athletes.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260512000000 -0500" stop="20260512010000 -0500" channel="ch.horizon">
+    <title lang="en">Morning Kickoff</title>
+    <desc lang="en">Start the day with highlights from last night's games plus a preview of today's schedule. Hosted by Darius Cole and Paula Strand.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260512010000 -0500" stop="20260512030000 -0500" channel="ch.horizon">
+    <title lang="en">Replay: Lakeside Classic Tennis Open Men's Final</title>
+    <desc lang="en">Full uninterrupted replay of the Lakeside Classic final between Marco Delgado and qualifier Yannick Borel.</desc>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20260512030000 -0500" stop="20260512040000 -0500" channel="ch.horizon">
+    <title lang="en">Horizon Hotlist</title>
+    <desc lang="en">The biggest plays, upsets, and moments from the past 7 days ranked by our panel of analysts.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260512040000 -0500" stop="20260512053000 -0500" channel="ch.horizon">
+    <title lang="en">LIVE: Northgate United vs Riverport FC</title>
+    <desc lang="en">Kickoff at 3:00pm. Two playoff-bound sides meet in a crucial mid-season clash at Northgate Stadium. Commentary by Sean O'Brien and Tanya Reeves.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20260512053000 -0500" stop="20260512060000 -0500" channel="ch.horizon">
+    <title lang="en">Post-Match Analysis</title>
+    <desc lang="en">Immediate reaction and tactical breakdown from tonight's Northgate United match. Player ratings and manager press conference.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20260512060000 -0500" stop="20260512073000 -0500" channel="ch.horizon">
+    <title lang="en">LIVE: Coastal Sharks vs Inland Raptors Basketball</title>
+    <desc lang="en">Conference clash between two top-four sides. Tip-off at 6:30pm local time. Commentary by Marcus Hill.</desc>
+    <category lang="en">Basketball</category>
+  </programme>
+  <programme start="20260512073000 -0500" stop="20260512090000 -0500" channel="ch.horizon">
+    <title lang="en">Motorsport Weekly</title>
+    <desc lang="en">This week's highlights from the Grand Prix circuit, rallycross championship, and endurance racing series.</desc>
+    <category lang="en">Motorsport</category>
+  </programme>
+  <programme start="20260512090000 -0500" stop="20260512100000 -0500" channel="ch.horizon">
+    <title lang="en">The Horizon Desk</title>
+    <desc lang="en">Evening sports news, scores, and extended post-game interviews.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260512100000 -0500" stop="20260512120000 -0500" channel="ch.horizon">
+    <title lang="en">Replay: Championship Cycling Stage 14</title>
+    <desc lang="en">Full replay of the dramatic mountain stage that reshuffled the general classification. Three breakaway riders and a summit finish.</desc>
+    <category lang="en">Cycling</category>
+  </programme>
+  <programme start="20260512120000 -0500" stop="20260512150000 -0500" channel="ch.horizon">
+    <title lang="en">Overnight Classics</title>
+    <desc lang="en">Archive classics from Horizon's vault: iconic matches, championship moments, and legendary athletes.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260511000000 -0500" stop="20260511010000 -0500" channel="ch.bloom">
+    <title lang="en">Rise and Bloom</title>
+    <desc lang="en">Morning yoga flow, mindfulness practice, and healthy breakfast ideas with wellness coach Amara Singh. Set your intention for the day.</desc>
+    <category lang="en">Health</category>
+  </programme>
+  <programme start="20260511010000 -0500" stop="20260511013000 -0500" channel="ch.bloom">
+    <title lang="en">Bloom Beauty</title>
+    <desc lang="en">Skincare routines, makeup tutorials, and product deep-dives. This week: the best SPF moisturizers for every skin tone.</desc>
+    <category lang="en">Lifestyle</category>
+  </programme>
+  <programme start="20260511013000 -0500" stop="20260511023000 -0500" channel="ch.bloom">
+    <title lang="en">Home and Haven</title>
+    <desc lang="en">Interior designer Petra Lowe transforms a cramped studio apartment into a stylish and functional living space on a tight budget.</desc>
+    <category lang="en">Home</category>
+  </programme>
+  <programme start="20260511023000 -0500" stop="20260511033000 -0500" channel="ch.bloom">
+    <title lang="en">Table for Two</title>
+    <desc lang="en">Couples cook a three-course meal together with no prior cooking experience. Host Chef Nneka Osei guides them through each step.</desc>
+    <category lang="en">Cooking</category>
+  </programme>
+  <programme start="20260511033000 -0500" stop="20260511040000 -0500" channel="ch.bloom">
+    <title lang="en">Travel Diaries</title>
+    <desc lang="en">Bloom's travel correspondent visits the coastal villages of southern Portugal, exploring hidden gems and local cuisine.</desc>
+    <category lang="en">Travel</category>
+  </programme>
+  <programme start="20260511040000 -0500" stop="20260511050000 -0500" channel="ch.bloom">
+    <title lang="en">Mind Full</title>
+    <desc lang="en">Psychologist Dr. Ava Torres hosts an honest conversation about stress, screen addiction, and rebuilding work-life balance in the modern age.</desc>
+    <category lang="en">Health</category>
+  </programme>
+  <programme start="20260511050000 -0500" stop="20260511060000 -0500" channel="ch.bloom">
+    <title lang="en">Bloom Afternoon</title>
+    <desc lang="en">A relaxed mix of fashion, home tips, and viewer mail. Hosted by Isla Fairweather.</desc>
+    <category lang="en">Lifestyle</category>
+  </programme>
+  <programme start="20260511060000 -0500" stop="20260511070000 -0500" channel="ch.bloom">
+    <title lang="en">Garden and Grove</title>
+    <desc lang="en">Horticulturalist Ben Nakamura demonstrates companion planting techniques for a thriving summer vegetable garden.</desc>
+    <category lang="en">Garden</category>
+  </programme>
+  <programme start="20260511070000 -0500" stop="20260511080000 -0500" channel="ch.bloom">
+    <title lang="en">Bloom Evening</title>
+    <desc lang="en">Rounding out the day with self-care rituals, evening routines, and reader inspiration stories.</desc>
+    <category lang="en">Lifestyle</category>
+  </programme>
+  <programme start="20260511080000 -0500" stop="20260511090000 -0500" channel="ch.bloom">
+    <title lang="en">Late Night Unwind</title>
+    <desc lang="en">Gentle guided meditation, low-light ambience, and sleep soundscapes to ease your transition into rest.</desc>
+    <category lang="en">Health</category>
+  </programme>
+  <programme start="20260511090000 -0500" stop="20260511130000 -0500" channel="ch.bloom">
+    <title lang="en">Bloom Overnight</title>
+    <desc lang="en">Continuous relaxation programming: nature sounds, slow travel footage, and ambient music.</desc>
+    <category lang="en">Lifestyle</category>
+  </programme>
+  <programme start="20260512000000 -0500" stop="20260512010000 -0500" channel="ch.bloom">
+    <title lang="en">Rise and Bloom</title>
+    <desc lang="en">Morning yoga flow, mindfulness practice, and healthy breakfast ideas with wellness coach Amara Singh. Set your intention for the day.</desc>
+    <category lang="en">Health</category>
+  </programme>
+  <programme start="20260512010000 -0500" stop="20260512013000 -0500" channel="ch.bloom">
+    <title lang="en">Bloom Beauty</title>
+    <desc lang="en">Skincare routines, makeup tutorials, and product deep-dives. This week: the best SPF moisturizers for every skin tone.</desc>
+    <category lang="en">Lifestyle</category>
+  </programme>
+  <programme start="20260512013000 -0500" stop="20260512023000 -0500" channel="ch.bloom">
+    <title lang="en">Home and Haven</title>
+    <desc lang="en">Interior designer Petra Lowe transforms a cramped studio apartment into a stylish and functional living space on a tight budget.</desc>
+    <category lang="en">Home</category>
+  </programme>
+  <programme start="20260512023000 -0500" stop="20260512033000 -0500" channel="ch.bloom">
+    <title lang="en">Table for Two</title>
+    <desc lang="en">Couples cook a three-course meal together with no prior cooking experience. Host Chef Nneka Osei guides them through each step.</desc>
+    <category lang="en">Cooking</category>
+  </programme>
+  <programme start="20260512033000 -0500" stop="20260512040000 -0500" channel="ch.bloom">
+    <title lang="en">Travel Diaries</title>
+    <desc lang="en">Bloom's travel correspondent visits the coastal villages of southern Portugal, exploring hidden gems and local cuisine.</desc>
+    <category lang="en">Travel</category>
+  </programme>
+  <programme start="20260512040000 -0500" stop="20260512050000 -0500" channel="ch.bloom">
+    <title lang="en">Mind Full</title>
+    <desc lang="en">Psychologist Dr. Ava Torres hosts an honest conversation about stress, screen addiction, and rebuilding work-life balance in the modern age.</desc>
+    <category lang="en">Health</category>
+  </programme>
+  <programme start="20260512050000 -0500" stop="20260512060000 -0500" channel="ch.bloom">
+    <title lang="en">Bloom Afternoon</title>
+    <desc lang="en">A relaxed mix of fashion, home tips, and viewer mail. Hosted by Isla Fairweather.</desc>
+    <category lang="en">Lifestyle</category>
+  </programme>
+  <programme start="20260512060000 -0500" stop="20260512070000 -0500" channel="ch.bloom">
+    <title lang="en">Garden and Grove</title>
+    <desc lang="en">Horticulturalist Ben Nakamura demonstrates companion planting techniques for a thriving summer vegetable garden.</desc>
+    <category lang="en">Garden</category>
+  </programme>
+  <programme start="20260512070000 -0500" stop="20260512080000 -0500" channel="ch.bloom">
+    <title lang="en">Bloom Evening</title>
+    <desc lang="en">Rounding out the day with self-care rituals, evening routines, and reader inspiration stories.</desc>
+    <category lang="en">Lifestyle</category>
+  </programme>
+  <programme start="20260512080000 -0500" stop="20260512090000 -0500" channel="ch.bloom">
+    <title lang="en">Late Night Unwind</title>
+    <desc lang="en">Gentle guided meditation, low-light ambience, and sleep soundscapes to ease your transition into rest.</desc>
+    <category lang="en">Health</category>
+  </programme>
+  <programme start="20260512090000 -0500" stop="20260512130000 -0500" channel="ch.bloom">
+    <title lang="en">Bloom Overnight</title>
+    <desc lang="en">Continuous relaxation programming: nature sounds, slow travel footage, and ambient music.</desc>
+    <category lang="en">Lifestyle</category>
+  </programme>
+  <programme start="20260511000000 -0500" stop="20260511010000 -0500" channel="ch.axiom">
+    <title lang="en">Axiom Dawn</title>
+    <desc lang="en">Morning science briefing covering the latest published research from journals worldwide. Hosted by Dr. Petra Engel.</desc>
+    <category lang="en">Science</category>
+  </programme>
+  <programme start="20260511010000 -0500" stop="20260511020000 -0500" channel="ch.axiom">
+    <title lang="en">Deep Ocean</title>
+    <desc lang="en">Ep 4 — Researchers aboard the survey vessel Meridian deploy a new submersible to map an uncharted hydrothermal vent field in the Pacific.</desc>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20260511020000 -0500" stop="20260511030000 -0500" channel="ch.axiom">
+    <title lang="en">The Quantum Question</title>
+    <desc lang="en">Theoretical physicist Lena Mori explains quantum entanglement in plain language, and what recent experiments tell us about the nature of reality.</desc>
+    <category lang="en">Science</category>
+  </programme>
+  <programme start="20260511030000 -0500" stop="20260511043000 -0500" channel="ch.axiom">
+    <title lang="en">Space: The Next 100 Years</title>
+    <desc lang="en">An ambitious look at where humanity could be in space a century from now, based on current trajectory and emerging propulsion technologies.</desc>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20260511043000 -0500" stop="20260511053000 -0500" channel="ch.axiom">
+    <title lang="en">Forensic Files: The Science of Crime</title>
+    <desc lang="en">How modern forensic techniques — from DNA phenotyping to digital forensics — are revolutionizing criminal investigations.</desc>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20260511053000 -0500" stop="20260511063000 -0500" channel="ch.axiom">
+    <title lang="en">Climate Lab</title>
+    <desc lang="en">Scientists at the Andean Climate Research Institute share 30 years of glacier data and what it means for global freshwater supplies.</desc>
+    <category lang="en">Environment</category>
+  </programme>
+  <programme start="20260511063000 -0500" stop="20260511080000 -0500" channel="ch.axiom">
+    <title lang="en">Engineering Marvels: The Bridge Builders</title>
+    <desc lang="en">The story of the team designing a 4km suspension bridge in a seismically active corridor and the engineering innovations that make it possible.</desc>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20260511080000 -0500" stop="20260511090000 -0500" channel="ch.axiom">
+    <title lang="en">Axiom Prime Time</title>
+    <desc lang="en">The biggest science stories of the week, analysed by Axiom's panel of researchers and science journalists.</desc>
+    <category lang="en">Science</category>
+  </programme>
+  <programme start="20260511090000 -0500" stop="20260511103000 -0500" channel="ch.axiom">
+    <title lang="en">The Brain: Mysteries of Consciousness</title>
+    <desc lang="en">Neuroscientists explore the boundaries between waking, sleeping, and the as-yet-unexplained phenomenon of near-death experience.</desc>
+    <category lang="en">Science</category>
+  </programme>
+  <programme start="20260511103000 -0500" stop="20260511120000 -0500" channel="ch.axiom">
+    <title lang="en">Axiom Late Night</title>
+    <desc lang="en">Archive documentary marathon. Tonight: classic episodes from the acclaimed series Earth from Above.</desc>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20260511120000 -0500" stop="20260511150000 -0500" channel="ch.axiom">
+    <title lang="en">Axiom Overnight</title>
+    <desc lang="en">Continuous archive documentary programming through the early hours.</desc>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20260512000000 -0500" stop="20260512010000 -0500" channel="ch.axiom">
+    <title lang="en">Axiom Dawn</title>
+    <desc lang="en">Morning science briefing covering the latest published research from journals worldwide. Hosted by Dr. Petra Engel.</desc>
+    <category lang="en">Science</category>
+  </programme>
+  <programme start="20260512010000 -0500" stop="20260512020000 -0500" channel="ch.axiom">
+    <title lang="en">Deep Ocean</title>
+    <desc lang="en">Ep 4 — Researchers aboard the survey vessel Meridian deploy a new submersible to map an uncharted hydrothermal vent field in the Pacific.</desc>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20260512020000 -0500" stop="20260512030000 -0500" channel="ch.axiom">
+    <title lang="en">The Quantum Question</title>
+    <desc lang="en">Theoretical physicist Lena Mori explains quantum entanglement in plain language, and what recent experiments tell us about the nature of reality.</desc>
+    <category lang="en">Science</category>
+  </programme>
+  <programme start="20260512030000 -0500" stop="20260512043000 -0500" channel="ch.axiom">
+    <title lang="en">Space: The Next 100 Years</title>
+    <desc lang="en">An ambitious look at where humanity could be in space a century from now, based on current trajectory and emerging propulsion technologies.</desc>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20260512043000 -0500" stop="20260512053000 -0500" channel="ch.axiom">
+    <title lang="en">Forensic Files: The Science of Crime</title>
+    <desc lang="en">How modern forensic techniques — from DNA phenotyping to digital forensics — are revolutionizing criminal investigations.</desc>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20260512053000 -0500" stop="20260512063000 -0500" channel="ch.axiom">
+    <title lang="en">Climate Lab</title>
+    <desc lang="en">Scientists at the Andean Climate Research Institute share 30 years of glacier data and what it means for global freshwater supplies.</desc>
+    <category lang="en">Environment</category>
+  </programme>
+  <programme start="20260512063000 -0500" stop="20260512080000 -0500" channel="ch.axiom">
+    <title lang="en">Engineering Marvels: The Bridge Builders</title>
+    <desc lang="en">The story of the team designing a 4km suspension bridge in a seismically active corridor and the engineering innovations that make it possible.</desc>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20260512080000 -0500" stop="20260512090000 -0500" channel="ch.axiom">
+    <title lang="en">Axiom Prime Time</title>
+    <desc lang="en">The biggest science stories of the week, analysed by Axiom's panel of researchers and science journalists.</desc>
+    <category lang="en">Science</category>
+  </programme>
+  <programme start="20260512090000 -0500" stop="20260512103000 -0500" channel="ch.axiom">
+    <title lang="en">The Brain: Mysteries of Consciousness</title>
+    <desc lang="en">Neuroscientists explore the boundaries between waking, sleeping, and the as-yet-unexplained phenomenon of near-death experience.</desc>
+    <category lang="en">Science</category>
+  </programme>
+  <programme start="20260512103000 -0500" stop="20260512120000 -0500" channel="ch.axiom">
+    <title lang="en">Axiom Late Night</title>
+    <desc lang="en">Archive documentary marathon. Tonight: classic episodes from the acclaimed series Earth from Above.</desc>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20260512120000 -0500" stop="20260512150000 -0500" channel="ch.axiom">
+    <title lang="en">Axiom Overnight</title>
+    <desc lang="en">Continuous archive documentary programming through the early hours.</desc>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20260511000000 -0500" stop="20260511013000 -0500" channel="ch.cinemax7">
+    <title lang="en">Morning Movie: Harbor Lights</title>
+    <desc lang="en">A 1974 romantic drama about two lighthouse attendants who fall in love during a brutal Atlantic winter. Stars Paul Renner and Celeste Vidal.</desc>
+    <category lang="en">Romance</category>
+  </programme>
+  <programme start="20260511013000 -0500" stop="20260511033000 -0500" channel="ch.cinemax7">
+    <title lang="en">CineMax Classic: The Iron Meridian</title>
+    <desc lang="en">A sweeping 1968 epic set during a fictional South American revolution. Winner of three international film awards.</desc>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20260511033000 -0500" stop="20260511040000 -0500" channel="ch.cinemax7">
+    <title lang="en">CineMax Preview</title>
+    <desc lang="en">Trailers and behind-the-scenes clips from upcoming CineMax 7 premieres.</desc>
+    <category lang="en">Entertainment</category>
+  </programme>
+  <programme start="20260511040000 -0500" stop="20260511055000 -0500" channel="ch.cinemax7">
+    <title lang="en">Afternoon Feature: Double Exposure</title>
+    <desc lang="en">A psychological thriller from 2004. A photojournalist develops photos that seem to depict crimes that have not happened yet.</desc>
+    <category lang="en">Thriller</category>
+  </programme>
+  <programme start="20260511055000 -0500" stop="20260511060000 -0500" channel="ch.cinemax7">
+    <title lang="en">CineMax Short: The Last Signal</title>
+    <desc lang="en">An award-winning 9-minute animated short about a lighthouse keeper and a message in a bottle.</desc>
+    <category lang="en">Animation</category>
+  </programme>
+  <programme start="20260511060000 -0500" stop="20260511080000 -0500" channel="ch.cinemax7">
+    <title lang="en">CineMax Premiere: Stillwater Falls</title>
+    <desc lang="en">A small-town mystery unfolds when a retired detective moves to a quiet lakeside town and finds it hiding dark secrets. A CineMax 7 original film.</desc>
+    <category lang="en">Mystery</category>
+  </programme>
+  <programme start="20260511080000 -0500" stop="20260511100000 -0500" channel="ch.cinemax7">
+    <title lang="en">Evening Feature: The Carver Affair</title>
+    <desc lang="en">A 1998 legal thriller. A public defender takes on an impossible case and uncovers a conspiracy reaching the highest levels of city government.</desc>
+    <category lang="en">Thriller</category>
+  </programme>
+  <programme start="20260511100000 -0500" stop="20260511115000 -0500" channel="ch.cinemax7">
+    <title lang="en">Late Night Feature: Sandstorm Protocol</title>
+    <desc lang="en">An action-packed 2002 geopolitical thriller set across three continents. An intelligence analyst races to stop a rogue weapons deal.</desc>
+    <category lang="en">Action</category>
+  </programme>
+  <programme start="20260511115000 -0500" stop="20260511132000 -0500" channel="ch.cinemax7">
+    <title lang="en">CineMax Midnight Classic: Glass Houses</title>
+    <desc lang="en">A stylish 1979 noir film featuring an unforgettable performance from actress Miriam Voss as a wealthy socialite with a dangerous secret.</desc>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20260511132000 -0500" stop="20260511160000 -0500" channel="ch.cinemax7">
+    <title lang="en">CineMax Overnight: Archive Cinema</title>
+    <desc lang="en">Back-to-back public-domain classic films from the 1940s and 1950s.</desc>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20260512000000 -0500" stop="20260512013000 -0500" channel="ch.cinemax7">
+    <title lang="en">Morning Movie: Harbor Lights</title>
+    <desc lang="en">A 1974 romantic drama about two lighthouse attendants who fall in love during a brutal Atlantic winter. Stars Paul Renner and Celeste Vidal.</desc>
+    <category lang="en">Romance</category>
+  </programme>
+  <programme start="20260512013000 -0500" stop="20260512033000 -0500" channel="ch.cinemax7">
+    <title lang="en">CineMax Classic: The Iron Meridian</title>
+    <desc lang="en">A sweeping 1968 epic set during a fictional South American revolution. Winner of three international film awards.</desc>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20260512033000 -0500" stop="20260512040000 -0500" channel="ch.cinemax7">
+    <title lang="en">CineMax Preview</title>
+    <desc lang="en">Trailers and behind-the-scenes clips from upcoming CineMax 7 premieres.</desc>
+    <category lang="en">Entertainment</category>
+  </programme>
+  <programme start="20260512040000 -0500" stop="20260512055000 -0500" channel="ch.cinemax7">
+    <title lang="en">Afternoon Feature: Double Exposure</title>
+    <desc lang="en">A psychological thriller from 2004. A photojournalist develops photos that seem to depict crimes that have not happened yet.</desc>
+    <category lang="en">Thriller</category>
+  </programme>
+  <programme start="20260512055000 -0500" stop="20260512060000 -0500" channel="ch.cinemax7">
+    <title lang="en">CineMax Short: The Last Signal</title>
+    <desc lang="en">An award-winning 9-minute animated short about a lighthouse keeper and a message in a bottle.</desc>
+    <category lang="en">Animation</category>
+  </programme>
+  <programme start="20260512060000 -0500" stop="20260512080000 -0500" channel="ch.cinemax7">
+    <title lang="en">CineMax Premiere: Stillwater Falls</title>
+    <desc lang="en">A small-town mystery unfolds when a retired detective moves to a quiet lakeside town and finds it hiding dark secrets. A CineMax 7 original film.</desc>
+    <category lang="en">Mystery</category>
+  </programme>
+  <programme start="20260512080000 -0500" stop="20260512100000 -0500" channel="ch.cinemax7">
+    <title lang="en">Evening Feature: The Carver Affair</title>
+    <desc lang="en">A 1998 legal thriller. A public defender takes on an impossible case and uncovers a conspiracy reaching the highest levels of city government.</desc>
+    <category lang="en">Thriller</category>
+  </programme>
+  <programme start="20260512100000 -0500" stop="20260512115000 -0500" channel="ch.cinemax7">
+    <title lang="en">Late Night Feature: Sandstorm Protocol</title>
+    <desc lang="en">An action-packed 2002 geopolitical thriller set across three continents. An intelligence analyst races to stop a rogue weapons deal.</desc>
+    <category lang="en">Action</category>
+  </programme>
+  <programme start="20260512115000 -0500" stop="20260512132000 -0500" channel="ch.cinemax7">
+    <title lang="en">CineMax Midnight Classic: Glass Houses</title>
+    <desc lang="en">A stylish 1979 noir film featuring an unforgettable performance from actress Miriam Voss as a wealthy socialite with a dangerous secret.</desc>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20260512132000 -0500" stop="20260512160000 -0500" channel="ch.cinemax7">
+    <title lang="en">CineMax Overnight: Archive Cinema</title>
+    <desc lang="en">Back-to-back public-domain classic films from the 1940s and 1950s.</desc>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20260511000000 -0500" stop="20260511003000 -0500" channel="ch.kidzone">
+    <title lang="en">Good Morning KidZone!</title>
+    <desc lang="en">Wake up with KidZone's cheerful morning host Sunny the Sunflower! Songs, dances, and a weather report just for kids.</desc>
+    <category lang="en">Children</category>
+  </programme>
+  <programme start="20260511003000 -0500" stop="20260511010000 -0500" channel="ch.kidzone">
+    <title lang="en">Captain Cosmos Jr.</title>
+    <desc lang="en">Ep 22 — Captain Cosmos and his crew land on the planet Zorbula, where all the colors have gone missing. Can they find the Rainbow Crystal in time?</desc>
+    <category lang="en">Animation</category>
+  </programme>
+  <programme start="20260511010000 -0500" stop="20260511013000 -0500" channel="ch.kidzone">
+    <title lang="en">The Woodland Bunch</title>
+    <desc lang="en">Hedgehog Harriet and her friends discover a mysterious map in the old oak tree. An adventure through Fernwood begins!</desc>
+    <category lang="en">Animation</category>
+  </programme>
+  <programme start="20260511013000 -0500" stop="20260511020000 -0500" channel="ch.kidzone">
+    <title lang="en">Dino Day</title>
+    <desc lang="en">Learn about dinosaurs with 8-year-old palaeontology fanatic Theo, who visits a museum excavation and helps identify a new fossil find.</desc>
+    <category lang="en">Educational</category>
+  </programme>
+  <programme start="20260511020000 -0500" stop="20260511023000 -0500" channel="ch.kidzone">
+    <title lang="en">Splish Splash Science</title>
+    <desc lang="en">Professor Puddle teaches kids about surface tension, density, and buoyancy using nothing but water, food coloring, and kitchen supplies.</desc>
+    <category lang="en">Educational</category>
+  </programme>
+  <programme start="20260511023000 -0500" stop="20260511030000 -0500" channel="ch.kidzone">
+    <title lang="en">Storyteller's Corner</title>
+    <desc lang="en">Award-winning author Mia Benson reads from her popular picture book series The Letters of Luma Lane, followed by a craft activity.</desc>
+    <category lang="en">Educational</category>
+  </programme>
+  <programme start="20260511030000 -0500" stop="20260511033000 -0500" channel="ch.kidzone">
+    <title lang="en">Captain Cosmos Jr. Repeat</title>
+    <desc lang="en">Ep 21 — The crew must outsmart the sneaky Space Pirates to recover a stolen star map. Teamwork and quick thinking save the day.</desc>
+    <category lang="en">Animation</category>
+  </programme>
+  <programme start="20260511033000 -0500" stop="20260511040000 -0500" channel="ch.kidzone">
+    <title lang="en">KidZone Fun Break</title>
+    <desc lang="en">Mini-games, viewer art showcase, jokes from the KidZone mailbag, and a singalong session!</desc>
+    <category lang="en">Entertainment</category>
+  </programme>
+  <programme start="20260511040000 -0500" stop="20260511050000 -0500" channel="ch.kidzone">
+    <title lang="en">Animal Planet Jr.</title>
+    <desc lang="en">A junior version of the classic nature documentary, narrated by a child and illustrated with stunning wildlife footage.</desc>
+    <category lang="en">Nature</category>
+  </programme>
+  <programme start="20260511050000 -0500" stop="20260511053000 -0500" channel="ch.kidzone">
+    <title lang="en">Math Rockets</title>
+    <desc lang="en">Blast off into maths! Today's mission: multiplication tables, fractions, and a special puzzle challenge for ages 8-12.</desc>
+    <category lang="en">Educational</category>
+  </programme>
+  <programme start="20260511053000 -0500" stop="20260511060000 -0500" channel="ch.kidzone">
+    <title lang="en">The Big Art Show</title>
+    <desc lang="en">Young artists aged 6-11 showcase their creations, with tips from professional illustrator Rosa Ferreira.</desc>
+    <category lang="en">Arts</category>
+  </programme>
+  <programme start="20260511060000 -0500" stop="20260511063000 -0500" channel="ch.kidzone">
+    <title lang="en">Bedtime with KidZone</title>
+    <desc lang="en">Wind down with a gentle story, stargazing facts, and lullabies. Sweet dreams from all of us at KidZone!</desc>
+    <category lang="en">Children</category>
+  </programme>
+  <programme start="20260511063000 -0500" stop="20260511070000 -0500" channel="ch.kidzone">
+    <title lang="en">The Woodland Bunch Repeat</title>
+    <desc lang="en">Ep rerun for evening viewers. Harriet and friends navigate Fernwood and discover the map leads to a very special surprise.</desc>
+    <category lang="en">Animation</category>
+  </programme>
+  <programme start="20260511070000 -0500" stop="20260511080000 -0500" channel="ch.kidzone">
+    <title lang="en">Family Movie: The Lighthouse Keeper's Son</title>
+    <desc lang="en">A heartwarming family adventure about a 10-year-old boy who discovers his lighthouse has magical powers. Rated G.</desc>
+    <category lang="en">Family</category>
+  </programme>
+  <programme start="20260511080000 -0500" stop="20260511090000 -0500" channel="ch.kidzone">
+    <title lang="en">KidZone Late: Galaxy Scouts</title>
+    <desc lang="en">Science fiction anthology series suitable for ages 10 and up. Two episodes back to back. Space exploration and problem-solving adventures.</desc>
+    <category lang="en">Animation</category>
+  </programme>
+  <programme start="20260511090000 -0500" stop="20260511160000 -0500" channel="ch.kidzone">
+    <title lang="en">KidZone Overnight</title>
+    <desc lang="en">Quiet ambient programming with soft music and calming visuals for the early morning hours.</desc>
+    <category lang="en">Children</category>
+  </programme>
+  <programme start="20260512000000 -0500" stop="20260512003000 -0500" channel="ch.kidzone">
+    <title lang="en">Good Morning KidZone!</title>
+    <desc lang="en">Wake up with KidZone's cheerful morning host Sunny the Sunflower! Songs, dances, and a weather report just for kids.</desc>
+    <category lang="en">Children</category>
+  </programme>
+  <programme start="20260512003000 -0500" stop="20260512010000 -0500" channel="ch.kidzone">
+    <title lang="en">Captain Cosmos Jr.</title>
+    <desc lang="en">Ep 22 — Captain Cosmos and his crew land on the planet Zorbula, where all the colors have gone missing. Can they find the Rainbow Crystal in time?</desc>
+    <category lang="en">Animation</category>
+  </programme>
+  <programme start="20260512010000 -0500" stop="20260512013000 -0500" channel="ch.kidzone">
+    <title lang="en">The Woodland Bunch</title>
+    <desc lang="en">Hedgehog Harriet and her friends discover a mysterious map in the old oak tree. An adventure through Fernwood begins!</desc>
+    <category lang="en">Animation</category>
+  </programme>
+  <programme start="20260512013000 -0500" stop="20260512020000 -0500" channel="ch.kidzone">
+    <title lang="en">Dino Day</title>
+    <desc lang="en">Learn about dinosaurs with 8-year-old palaeontology fanatic Theo, who visits a museum excavation and helps identify a new fossil find.</desc>
+    <category lang="en">Educational</category>
+  </programme>
+  <programme start="20260512020000 -0500" stop="20260512023000 -0500" channel="ch.kidzone">
+    <title lang="en">Splish Splash Science</title>
+    <desc lang="en">Professor Puddle teaches kids about surface tension, density, and buoyancy using nothing but water, food coloring, and kitchen supplies.</desc>
+    <category lang="en">Educational</category>
+  </programme>
+  <programme start="20260512023000 -0500" stop="20260512030000 -0500" channel="ch.kidzone">
+    <title lang="en">Storyteller's Corner</title>
+    <desc lang="en">Award-winning author Mia Benson reads from her popular picture book series The Letters of Luma Lane, followed by a craft activity.</desc>
+    <category lang="en">Educational</category>
+  </programme>
+  <programme start="20260512030000 -0500" stop="20260512033000 -0500" channel="ch.kidzone">
+    <title lang="en">Captain Cosmos Jr. Repeat</title>
+    <desc lang="en">Ep 21 — The crew must outsmart the sneaky Space Pirates to recover a stolen star map. Teamwork and quick thinking save the day.</desc>
+    <category lang="en">Animation</category>
+  </programme>
+  <programme start="20260512033000 -0500" stop="20260512040000 -0500" channel="ch.kidzone">
+    <title lang="en">KidZone Fun Break</title>
+    <desc lang="en">Mini-games, viewer art showcase, jokes from the KidZone mailbag, and a singalong session!</desc>
+    <category lang="en">Entertainment</category>
+  </programme>
+  <programme start="20260512040000 -0500" stop="20260512050000 -0500" channel="ch.kidzone">
+    <title lang="en">Animal Planet Jr.</title>
+    <desc lang="en">A junior version of the classic nature documentary, narrated by a child and illustrated with stunning wildlife footage.</desc>
+    <category lang="en">Nature</category>
+  </programme>
+  <programme start="20260512050000 -0500" stop="20260512053000 -0500" channel="ch.kidzone">
+    <title lang="en">Math Rockets</title>
+    <desc lang="en">Blast off into maths! Today's mission: multiplication tables, fractions, and a special puzzle challenge for ages 8-12.</desc>
+    <category lang="en">Educational</category>
+  </programme>
+  <programme start="20260512053000 -0500" stop="20260512060000 -0500" channel="ch.kidzone">
+    <title lang="en">The Big Art Show</title>
+    <desc lang="en">Young artists aged 6-11 showcase their creations, with tips from professional illustrator Rosa Ferreira.</desc>
+    <category lang="en">Arts</category>
+  </programme>
+  <programme start="20260512060000 -0500" stop="20260512063000 -0500" channel="ch.kidzone">
+    <title lang="en">Bedtime with KidZone</title>
+    <desc lang="en">Wind down with a gentle story, stargazing facts, and lullabies. Sweet dreams from all of us at KidZone!</desc>
+    <category lang="en">Children</category>
+  </programme>
+  <programme start="20260512063000 -0500" stop="20260512070000 -0500" channel="ch.kidzone">
+    <title lang="en">The Woodland Bunch Repeat</title>
+    <desc lang="en">Ep rerun for evening viewers. Harriet and friends navigate Fernwood and discover the map leads to a very special surprise.</desc>
+    <category lang="en">Animation</category>
+  </programme>
+  <programme start="20260512070000 -0500" stop="20260512080000 -0500" channel="ch.kidzone">
+    <title lang="en">Family Movie: The Lighthouse Keeper's Son</title>
+    <desc lang="en">A heartwarming family adventure about a 10-year-old boy who discovers his lighthouse has magical powers. Rated G.</desc>
+    <category lang="en">Family</category>
+  </programme>
+  <programme start="20260512080000 -0500" stop="20260512090000 -0500" channel="ch.kidzone">
+    <title lang="en">KidZone Late: Galaxy Scouts</title>
+    <desc lang="en">Science fiction anthology series suitable for ages 10 and up. Two episodes back to back. Space exploration and problem-solving adventures.</desc>
+    <category lang="en">Animation</category>
+  </programme>
+  <programme start="20260512090000 -0500" stop="20260512160000 -0500" channel="ch.kidzone">
+    <title lang="en">KidZone Overnight</title>
+    <desc lang="en">Quiet ambient programming with soft music and calming visuals for the early morning hours.</desc>
+    <category lang="en">Children</category>
+  </programme>
+  <programme start="20260511000000 -0500" stop="20260511010000 -0500" channel="ch.groove">
+    <title lang="en">Groove AM</title>
+    <desc lang="en">Ease into the morning with a curated mix of indie pop, lo-fi beats, and acoustic sessions to start your day right.</desc>
+    <category lang="en">Music</category>
+  </programme>
+  <programme start="20260511010000 -0500" stop="20260511013000 -0500" channel="ch.groove">
+    <title lang="en">New Music Monday</title>
+    <desc lang="en">The freshest releases of the week across pop, R&amp;B, hip-hop, and alternative — videos and reviews from the Groove team.</desc>
+    <category lang="en">Music</category>
+  </programme>
+  <programme start="20260511013000 -0500" stop="20260511023000 -0500" channel="ch.groove">
+    <title lang="en">Artist Spotlight: The Ember Coast</title>
+    <desc lang="en">An hour dedicated to indie folk duo The Ember Coast — full videos, behind-the-scenes footage, and an exclusive studio session.</desc>
+    <category lang="en">Music</category>
+  </programme>
+  <programme start="20260511023000 -0500" stop="20260511033000 -0500" channel="ch.groove">
+    <title lang="en">Groove Classics: 90s Hits</title>
+    <desc lang="en">Nonstop videos from the decade that defined music video culture. From grunge to boy bands, it's all here.</desc>
+    <category lang="en">Music</category>
+  </programme>
+  <programme start="20260511033000 -0500" stop="20260511040000 -0500" channel="ch.groove">
+    <title lang="en">Groove Chart Show</title>
+    <desc lang="en">This week's top 20 countdown, as voted by Groove Music TV viewers. Who will take the number one spot?</desc>
+    <category lang="en">Music</category>
+  </programme>
+  <programme start="20260511040000 -0500" stop="20260511050000 -0500" channel="ch.groove">
+    <title lang="en">Lunch Break Beats</title>
+    <desc lang="en">A DJ-style mix set curated for your midday vibe. Today's curator: DJ Sable from the Coastal Cities scene.</desc>
+    <category lang="en">Music</category>
+  </programme>
+  <programme start="20260511050000 -0500" stop="20260511053000 -0500" channel="ch.groove">
+    <title lang="en">Groove Sessions: Live Acoustic</title>
+    <desc lang="en">Singer-songwriter Elena Vance performs an intimate 30-minute acoustic set recorded at the Groove TV studios.</desc>
+    <category lang="en">Music</category>
+  </programme>
+  <programme start="20260511053000 -0500" stop="20260511063000 -0500" channel="ch.groove">
+    <title lang="en">Decade Rewind: The 00s</title>
+    <desc lang="en">A nostalgic journey through the noughties — emo anthems, pop punk, rap-rock crossovers, and bubblegum pop.</desc>
+    <category lang="en">Music</category>
+  </programme>
+  <programme start="20260511063000 -0500" stop="20260511073000 -0500" channel="ch.groove">
+    <title lang="en">Groove Evening Mix</title>
+    <desc lang="en">The perfect soundtrack for your evening. Curated R&amp;B, neo-soul, and chilled electronic to wind down with.</desc>
+    <category lang="en">Music</category>
+  </programme>
+  <programme start="20260511073000 -0500" stop="20260511083000 -0500" channel="ch.groove">
+    <title lang="en">Concert Replay: The Meridian Festival</title>
+    <desc lang="en">Highlights from last summer's Meridian Music Festival, featuring performances from six artists across three stages.</desc>
+    <category lang="en">Music</category>
+  </programme>
+  <programme start="20260511083000 -0500" stop="20260511093000 -0500" channel="ch.groove">
+    <title lang="en">Late Night Groove</title>
+    <desc lang="en">The coolest sounds for night owls — ambient, jazz fusion, trip-hop, and late-night electronic from around the world.</desc>
+    <category lang="en">Music</category>
+  </programme>
+  <programme start="20260511093000 -0500" stop="20260511110000 -0500" channel="ch.groove">
+    <title lang="en">Groove Overnight: Chill Mix Vol. 8</title>
+    <desc lang="en">Continuous low-tempo music to carry you through the night. Perfect for sleep, study, or late-night drives.</desc>
+    <category lang="en">Music</category>
+  </programme>
+  <programme start="20260511110000 -0500" stop="20260511160000 -0500" channel="ch.groove">
+    <title lang="en">Groove Early Morning Extended</title>
+    <desc lang="en">Uplifting acoustic and indie folk to greet the sunrise. Ambient and instrumental programming running through to morning.</desc>
+    <category lang="en">Music</category>
+  </programme>
+  <programme start="20260512000000 -0500" stop="20260512010000 -0500" channel="ch.groove">
+    <title lang="en">Groove AM</title>
+    <desc lang="en">Ease into the morning with a curated mix of indie pop, lo-fi beats, and acoustic sessions to start your day right.</desc>
+    <category lang="en">Music</category>
+  </programme>
+  <programme start="20260512010000 -0500" stop="20260512013000 -0500" channel="ch.groove">
+    <title lang="en">New Music Monday</title>
+    <desc lang="en">The freshest releases of the week across pop, R&amp;B, hip-hop, and alternative — videos and reviews from the Groove team.</desc>
+    <category lang="en">Music</category>
+  </programme>
+  <programme start="20260512013000 -0500" stop="20260512023000 -0500" channel="ch.groove">
+    <title lang="en">Artist Spotlight: The Ember Coast</title>
+    <desc lang="en">An hour dedicated to indie folk duo The Ember Coast — full videos, behind-the-scenes footage, and an exclusive studio session.</desc>
+    <category lang="en">Music</category>
+  </programme>
+  <programme start="20260512023000 -0500" stop="20260512033000 -0500" channel="ch.groove">
+    <title lang="en">Groove Classics: 90s Hits</title>
+    <desc lang="en">Nonstop videos from the decade that defined music video culture. From grunge to boy bands, it's all here.</desc>
+    <category lang="en">Music</category>
+  </programme>
+  <programme start="20260512033000 -0500" stop="20260512040000 -0500" channel="ch.groove">
+    <title lang="en">Groove Chart Show</title>
+    <desc lang="en">This week's top 20 countdown, as voted by Groove Music TV viewers. Who will take the number one spot?</desc>
+    <category lang="en">Music</category>
+  </programme>
+  <programme start="20260512040000 -0500" stop="20260512050000 -0500" channel="ch.groove">
+    <title lang="en">Lunch Break Beats</title>
+    <desc lang="en">A DJ-style mix set curated for your midday vibe. Today's curator: DJ Sable from the Coastal Cities scene.</desc>
+    <category lang="en">Music</category>
+  </programme>
+  <programme start="20260512050000 -0500" stop="20260512053000 -0500" channel="ch.groove">
+    <title lang="en">Groove Sessions: Live Acoustic</title>
+    <desc lang="en">Singer-songwriter Elena Vance performs an intimate 30-minute acoustic set recorded at the Groove TV studios.</desc>
+    <category lang="en">Music</category>
+  </programme>
+  <programme start="20260512053000 -0500" stop="20260512063000 -0500" channel="ch.groove">
+    <title lang="en">Decade Rewind: The 00s</title>
+    <desc lang="en">A nostalgic journey through the noughties — emo anthems, pop punk, rap-rock crossovers, and bubblegum pop.</desc>
+    <category lang="en">Music</category>
+  </programme>
+  <programme start="20260512063000 -0500" stop="20260512073000 -0500" channel="ch.groove">
+    <title lang="en">Groove Evening Mix</title>
+    <desc lang="en">The perfect soundtrack for your evening. Curated R&amp;B, neo-soul, and chilled electronic to wind down with.</desc>
+    <category lang="en">Music</category>
+  </programme>
+  <programme start="20260512073000 -0500" stop="20260512083000 -0500" channel="ch.groove">
+    <title lang="en">Concert Replay: The Meridian Festival</title>
+    <desc lang="en">Highlights from last summer's Meridian Music Festival, featuring performances from six artists across three stages.</desc>
+    <category lang="en">Music</category>
+  </programme>
+  <programme start="20260512083000 -0500" stop="20260512093000 -0500" channel="ch.groove">
+    <title lang="en">Late Night Groove</title>
+    <desc lang="en">The coolest sounds for night owls — ambient, jazz fusion, trip-hop, and late-night electronic from around the world.</desc>
+    <category lang="en">Music</category>
+  </programme>
+  <programme start="20260512093000 -0500" stop="20260512110000 -0500" channel="ch.groove">
+    <title lang="en">Groove Overnight: Chill Mix Vol. 8</title>
+    <desc lang="en">Continuous low-tempo music to carry you through the night. Perfect for sleep, study, or late-night drives.</desc>
+    <category lang="en">Music</category>
+  </programme>
+  <programme start="20260512110000 -0500" stop="20260512160000 -0500" channel="ch.groove">
+    <title lang="en">Groove Early Morning Extended</title>
+    <desc lang="en">Uplifting acoustic and indie folk to greet the sunrise. Ambient and instrumental programming running through to morning.</desc>
+    <category lang="en">Music</category>
+  </programme>
+</tv>
