@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="Test EPG Generator">
+  <channel id="channel1">
+    <display-name>Channel 1</display-name>
+  </channel>
+  <channel id="channel2">
+    <display-name>Channel 2</display-name>
+  </channel>
+  <channel id="channel3">
+    <display-name>Channel 3</display-name>
+  </channel>
+  <channel id="channel4">
+    <display-name>Channel 4</display-name>
+  </channel>
+  <channel id="channel5">
+    <display-name>Channel 5</display-name>
+  </channel>
+  <channel id="channel6">
+    <display-name>Channel 6</display-name>
+  </channel>
+  <channel id="channel7">
+    <display-name>Channel 7</display-name>
+  </channel>
+  <channel id="channel8">
+    <display-name>Channel 8</display-name>
+  </channel>
+  <channel id="channel9">
+    <display-name>Channel 9</display-name>
+  </channel>
+  <channel id="channel10">
+    <display-name>Channel 10</display-name>
+  </channel>
+  <channel id="channel11">
+    <display-name>Channel 11</display-name>
+  </channel>
+  <channel id="channel12">
+    <display-name>Channel 12</display-name>
+  </channel>
+
+  <programme start="20260512140000 +0000" stop="20260512150000 +0000" channel="channel1">
+    <title>EPG4 - Twilight Zone</title>
+    <desc>Program from EPG #4 for Channel 1</desc>
+  </programme>
+  <programme start="20260512150000 +0000" stop="20260512160000 +0000" channel="channel1">
+    <title>EPG4 - Midnight Mystery</title>
+    <desc>Program from EPG #4 for Channel 1</desc>
+  </programme>
+  <programme start="20260512160000 +0000" stop="20260512170000 +0000" channel="channel1">
+    <title>EPG4 - Dawn Patrol</title>
+    <desc>Program from EPG #4 for Channel 1</desc>
+  </programme>
+
+  <programme start="20260512140000 +0000" stop="20260512150000 +0000" channel="channel2">
+    <title>EPG4 - All-Star Game</title>
+    <desc>Program from EPG #4 for Channel 2</desc>
+  </programme>
+  <programme start="20260512150000 +0000" stop="20260512160000 +0000" channel="channel2">
+    <title>EPG4 - Halftime Show</title>
+    <desc>Program from EPG #4 for Channel 2</desc>
+  </programme>
+  <programme start="20260512160000 +0000" stop="20260512170000 +0000" channel="channel2">
+    <title>EPG4 - Victory Lap</title>
+    <desc>Program from EPG #4 for Channel 2</desc>
+  </programme>
+
+  <programme start="20260512140000 +0000" stop="20260512150000 +0000" channel="channel3">
+    <title>EPG4 - Oscar Winner</title>
+    <desc>Program from EPG #4 for Channel 3</desc>
+  </programme>
+  <programme start="20260512150000 +0000" stop="20260512160000 +0000" channel="channel3">
+    <title>EPG4 - Red Carpet</title>
+    <desc>Program from EPG #4 for Channel 3</desc>
+  </programme>
+  <programme start="20260512160000 +0000" stop="20260512170000 +0000" channel="channel3">
+    <title>EPG4 - Critics Choice</title>
+    <desc>Program from EPG #4 for Channel 3</desc>
+  </programme>
+
+  <programme start="20260512110000 +0000" stop="20260512120000 +0000" channel="channel4">
+    <title>EPG4 - Global Bites</title>
+    <desc>Program from EPG #4 for Channel 4</desc>
+  </programme>
+  <programme start="20260512120000 +0000" stop="20260512130000 +0000" channel="channel4">
+    <title>EPG4 - Road Trip</title>
+    <desc>Program from EPG #4 for Channel 4</desc>
+  </programme>
+  <programme start="20260512130000 +0000" stop="20260512140000 +0000" channel="channel4">
+    <title>EPG4 - Local Flavor</title>
+    <desc>Program from EPG #4 for Channel 4</desc>
+  </programme>
+
+  <programme start="20260512110000 +0000" stop="20260512120000 +0000" channel="channel5">
+    <title>EPG4 - Album Drop</title>
+    <desc>Program from EPG #4 for Channel 5</desc>
+  </programme>
+  <programme start="20260512120000 +0000" stop="20260512130000 +0000" channel="channel5">
+    <title>EPG4 - Studio Session</title>
+    <desc>Program from EPG #4 for Channel 5</desc>
+  </programme>
+  <programme start="20260512130000 +0000" stop="20260512140000 +0000" channel="channel5">
+    <title>EPG4 - Acoustic Night</title>
+    <desc>Program from EPG #4 for Channel 5</desc>
+  </programme>
+
+  <programme start="20260512110000 +0000" stop="20260512120000 +0000" channel="channel6">
+    <title>EPG4 - Mars Colony</title>
+    <desc>Program from EPG #4 for Channel 6</desc>
+  </programme>
+  <programme start="20260512120000 +0000" stop="20260512130000 +0000" channel="channel6">
+    <title>EPG4 - AI Revolution</title>
+    <desc>Program from EPG #4 for Channel 6</desc>
+  </programme>
+  <programme start="20260512130000 +0000" stop="20260512140000 +0000" channel="channel6">
+    <title>EPG4 - Quantum Leap</title>
+    <desc>Program from EPG #4 for Channel 6</desc>
+  </programme>
+
+  <programme start="20260512080000 +0000" stop="20260512090000 +0000" channel="channel7">
+    <title>EPG4 - Business Report</title>
+    <desc>Program from EPG #4 for Channel 7</desc>
+  </programme>
+  <programme start="20260512090000 +0000" stop="20260512100000 +0000" channel="channel7">
+    <title>EPG4 - Policy Watch</title>
+    <desc>Program from EPG #4 for Channel 7</desc>
+  </programme>
+  <programme start="20260512100000 +0000" stop="20260512110000 +0000" channel="channel7">
+    <title>EPG4 - Election Special</title>
+    <desc>Program from EPG #4 for Channel 7</desc>
+  </programme>
+
+  <programme start="20260512080000 +0000" stop="20260512090000 +0000" channel="channel8">
+    <title>EPG4 - School Days</title>
+    <desc>Program from EPG #4 for Channel 8</desc>
+  </programme>
+  <programme start="20260512090000 +0000" stop="20260512100000 +0000" channel="channel8">
+    <title>EPG4 - Adventure Hour</title>
+    <desc>Program from EPG #4 for Channel 8</desc>
+  </programme>
+  <programme start="20260512100000 +0000" stop="20260512110000 +0000" channel="channel8">
+    <title>EPG4 - Bedtime Stories</title>
+    <desc>Program from EPG #4 for Channel 8</desc>
+  </programme>
+
+  <programme start="20260512080000 +0000" stop="20260512090000 +0000" channel="channel9">
+    <title>EPG4 - Stock Exchange</title>
+    <desc>Program from EPG #4 for Channel 9</desc>
+  </programme>
+  <programme start="20260512090000 +0000" stop="20260512100000 +0000" channel="channel9">
+    <title>EPG4 - Commodities</title>
+    <desc>Program from EPG #4 for Channel 9</desc>
+  </programme>
+  <programme start="20260512100000 +0000" stop="20260512110000 +0000" channel="channel9">
+    <title>EPG4 - Forex Update</title>
+    <desc>Program from EPG #4 for Channel 9</desc>
+  </programme>
+
+  <programme start="20260512050000 +0000" stop="20260512060000 +0000" channel="channel10">
+    <title>EPG4 - Garden Life</title>
+    <desc>Program from EPG #4 for Channel 10</desc>
+  </programme>
+  <programme start="20260512060000 +0000" stop="20260512070000 +0000" channel="channel10">
+    <title>EPG4 - Home Makeover</title>
+    <desc>Program from EPG #4 for Channel 10</desc>
+  </programme>
+  <programme start="20260512070000 +0000" stop="20260512080000 +0000" channel="channel10">
+    <title>EPG4 - DIY Masters</title>
+    <desc>Program from EPG #4 for Channel 10</desc>
+  </programme>
+
+  <programme start="20260512050000 +0000" stop="20260512060000 +0000" channel="channel11">
+    <title>EPG4 - True Crime</title>
+    <desc>Program from EPG #4 for Channel 11</desc>
+  </programme>
+  <programme start="20260512060000 +0000" stop="20260512070000 +0000" channel="channel11">
+    <title>EPG4 - Cold Case</title>
+    <desc>Program from EPG #4 for Channel 11</desc>
+  </programme>
+  <programme start="20260512070000 +0000" stop="20260512080000 +0000" channel="channel11">
+    <title>EPG4 - Forensic Files</title>
+    <desc>Program from EPG #4 for Channel 11</desc>
+  </programme>
+
+  <programme start="20260512050000 +0000" stop="20260512060000 +0000" channel="channel12">
+    <title>EPG4 - Comedy Central</title>
+    <desc>Program from EPG #4 for Channel 12</desc>
+  </programme>
+  <programme start="20260512060000 +0000" stop="20260512070000 +0000" channel="channel12">
+    <title>EPG4 - Stand Up</title>
+    <desc>Program from EPG #4 for Channel 12</desc>
+  </programme>
+  <programme start="20260512070000 +0000" stop="20260512080000 +0000" channel="channel12">
+    <title>EPG4 - Improv Night</title>
+    <desc>Program from EPG #4 for Channel 12</desc>
+  </programme>
+</tv>

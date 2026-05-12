@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="Test EPG Generator">
+  <channel id="channel1">
+    <display-name>Channel 1</display-name>
+  </channel>
+  <channel id="channel2">
+    <display-name>Channel 2</display-name>
+  </channel>
+  <channel id="channel3">
+    <display-name>Channel 3</display-name>
+  </channel>
+  <channel id="channel4">
+    <display-name>Channel 4</display-name>
+  </channel>
+  <channel id="channel5">
+    <display-name>Channel 5</display-name>
+  </channel>
+  <channel id="channel6">
+    <display-name>Channel 6</display-name>
+  </channel>
+  <channel id="channel7">
+    <display-name>Channel 7</display-name>
+  </channel>
+  <channel id="channel8">
+    <display-name>Channel 8</display-name>
+  </channel>
+  <channel id="channel9">
+    <display-name>Channel 9</display-name>
+  </channel>
+
+  <programme start="20260512110000 +0000" stop="20260512120000 +0000" channel="channel1">
+    <title>EPG3 - Prime Time Show</title>
+    <desc>Program from EPG #3 for Channel 1</desc>
+  </programme>
+  <programme start="20260512120000 +0000" stop="20260512130000 +0000" channel="channel1">
+    <title>EPG3 - Late Edition</title>
+    <desc>Program from EPG #3 for Channel 1</desc>
+  </programme>
+  <programme start="20260512130000 +0000" stop="20260512140000 +0000" channel="channel1">
+    <title>EPG3 - Night Owl</title>
+    <desc>Program from EPG #3 for Channel 1</desc>
+  </programme>
+
+  <programme start="20260512110000 +0000" stop="20260512120000 +0000" channel="channel2">
+    <title>EPG3 - Championship Final</title>
+    <desc>Program from EPG #3 for Channel 2</desc>
+  </programme>
+  <programme start="20260512120000 +0000" stop="20260512130000 +0000" channel="channel2">
+    <title>EPG3 - Trophy Ceremony</title>
+    <desc>Program from EPG #3 for Channel 2</desc>
+  </programme>
+  <programme start="20260512130000 +0000" stop="20260512140000 +0000" channel="channel2">
+    <title>EPG3 - Analysis Desk</title>
+    <desc>Program from EPG #3 for Channel 2</desc>
+  </programme>
+
+  <programme start="20260512110000 +0000" stop="20260512120000 +0000" channel="channel3">
+    <title>EPG3 - Blockbuster Movie</title>
+    <desc>Program from EPG #3 for Channel 3</desc>
+  </programme>
+  <programme start="20260512120000 +0000" stop="20260512130000 +0000" channel="channel3">
+    <title>EPG3 - After Dark</title>
+    <desc>Program from EPG #3 for Channel 3</desc>
+  </programme>
+  <programme start="20260512130000 +0000" stop="20260512140000 +0000" channel="channel3">
+    <title>EPG3 - Director Cut</title>
+    <desc>Program from EPG #3 for Channel 3</desc>
+  </programme>
+
+  <programme start="20260512080000 +0000" stop="20260512090000 +0000" channel="channel4">
+    <title>EPG3 - World Cuisine</title>
+    <desc>Program from EPG #3 for Channel 4</desc>
+  </programme>
+  <programme start="20260512090000 +0000" stop="20260512100000 +0000" channel="channel4">
+    <title>EPG3 - Global Trek</title>
+    <desc>Program from EPG #3 for Channel 4</desc>
+  </programme>
+  <programme start="20260512100000 +0000" stop="20260512110000 +0000" channel="channel4">
+    <title>EPG3 - Hidden Gems</title>
+    <desc>Program from EPG #3 for Channel 4</desc>
+  </programme>
+
+  <programme start="20260512080000 +0000" stop="20260512090000 +0000" channel="channel5">
+    <title>EPG3 - Festival Live</title>
+    <desc>Program from EPG #3 for Channel 5</desc>
+  </programme>
+  <programme start="20260512090000 +0000" stop="20260512100000 +0000" channel="channel5">
+    <title>EPG3 - Behind the Music</title>
+    <desc>Program from EPG #3 for Channel 5</desc>
+  </programme>
+  <programme start="20260512100000 +0000" stop="20260512110000 +0000" channel="channel5">
+    <title>EPG3 - Jam Session</title>
+    <desc>Program from EPG #3 for Channel 5</desc>
+  </programme>
+
+  <programme start="20260512080000 +0000" stop="20260512090000 +0000" channel="channel6">
+    <title>EPG3 - Space Odyssey</title>
+    <desc>Program from EPG #3 for Channel 6</desc>
+  </programme>
+  <programme start="20260512090000 +0000" stop="20260512100000 +0000" channel="channel6">
+    <title>EPG3 - Future Tech</title>
+    <desc>Program from EPG #3 for Channel 6</desc>
+  </programme>
+  <programme start="20260512100000 +0000" stop="20260512110000 +0000" channel="channel6">
+    <title>EPG3 - Robot Wars</title>
+    <desc>Program from EPG #3 for Channel 6</desc>
+  </programme>
+
+  <programme start="20260512050000 +0000" stop="20260512060000 +0000" channel="channel7">
+    <title>EPG3 - Morning News</title>
+    <desc>Program from EPG #3 for Channel 7</desc>
+  </programme>
+  <programme start="20260512060000 +0000" stop="20260512070000 +0000" channel="channel7">
+    <title>EPG3 - Panel Discussion</title>
+    <desc>Program from EPG #3 for Channel 7</desc>
+  </programme>
+  <programme start="20260512070000 +0000" stop="20260512080000 +0000" channel="channel7">
+    <title>EPG3 - Investigative Report</title>
+    <desc>Program from EPG #3 for Channel 7</desc>
+  </programme>
+
+  <programme start="20260512050000 +0000" stop="20260512060000 +0000" channel="channel8">
+    <title>EPG3 - Kids Corner</title>
+    <desc>Program from EPG #3 for Channel 8</desc>
+  </programme>
+  <programme start="20260512060000 +0000" stop="20260512070000 +0000" channel="channel8">
+    <title>EPG3 - Teen Drama</title>
+    <desc>Program from EPG #3 for Channel 8</desc>
+  </programme>
+  <programme start="20260512070000 +0000" stop="20260512080000 +0000" channel="channel8">
+    <title>EPG3 - Family Movie</title>
+    <desc>Program from EPG #3 for Channel 8</desc>
+  </programme>
+
+  <programme start="20260512050000 +0000" stop="20260512060000 +0000" channel="channel9">
+    <title>EPG3 - Finance Now</title>
+    <desc>Program from EPG #3 for Channel 9</desc>
+  </programme>
+  <programme start="20260512060000 +0000" stop="20260512070000 +0000" channel="channel9">
+    <title>EPG3 - Market Watch</title>
+    <desc>Program from EPG #3 for Channel 9</desc>
+  </programme>
+  <programme start="20260512070000 +0000" stop="20260512080000 +0000" channel="channel9">
+    <title>EPG3 - Crypto Daily</title>
+    <desc>Program from EPG #3 for Channel 9</desc>
+  </programme>
+</tv>

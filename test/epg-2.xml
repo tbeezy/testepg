@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="Test EPG Generator">
+  <channel id="channel1">
+    <display-name>Channel 1</display-name>
+  </channel>
+  <channel id="channel2">
+    <display-name>Channel 2</display-name>
+  </channel>
+  <channel id="channel3">
+    <display-name>Channel 3</display-name>
+  </channel>
+  <channel id="channel4">
+    <display-name>Channel 4</display-name>
+  </channel>
+  <channel id="channel5">
+    <display-name>Channel 5</display-name>
+  </channel>
+  <channel id="channel6">
+    <display-name>Channel 6</display-name>
+  </channel>
+
+  <programme start="20260512080000 +0000" stop="20260512090000 +0000" channel="channel1">
+    <title>EPG2 - Afternoon Show</title>
+    <desc>Program from EPG #2 for Channel 1</desc>
+  </programme>
+  <programme start="20260512090000 +0000" stop="20260512100000 +0000" channel="channel1">
+    <title>EPG2 - Evening News</title>
+    <desc>Program from EPG #2 for Channel 1</desc>
+  </programme>
+  <programme start="20260512100000 +0000" stop="20260512110000 +0000" channel="channel1">
+    <title>EPG2 - Late Report</title>
+    <desc>Program from EPG #2 for Channel 1</desc>
+  </programme>
+
+  <programme start="20260512080000 +0000" stop="20260512090000 +0000" channel="channel2">
+    <title>EPG2 - Live Match</title>
+    <desc>Program from EPG #2 for Channel 2</desc>
+  </programme>
+  <programme start="20260512090000 +0000" stop="20260512100000 +0000" channel="channel2">
+    <title>EPG2 - Match Analysis</title>
+    <desc>Program from EPG #2 for Channel 2</desc>
+  </programme>
+  <programme start="20260512100000 +0000" stop="20260512110000 +0000" channel="channel2">
+    <title>EPG2 - Post Match</title>
+    <desc>Program from EPG #2 for Channel 2</desc>
+  </programme>
+
+  <programme start="20260512080000 +0000" stop="20260512090000 +0000" channel="channel3">
+    <title>EPG2 - Movie Premiere</title>
+    <desc>Program from EPG #2 for Channel 3</desc>
+  </programme>
+  <programme start="20260512090000 +0000" stop="20260512100000 +0000" channel="channel3">
+    <title>EPG2 - Reality Show</title>
+    <desc>Program from EPG #2 for Channel 3</desc>
+  </programme>
+  <programme start="20260512100000 +0000" stop="20260512110000 +0000" channel="channel3">
+    <title>EPG2 - Talk Back</title>
+    <desc>Program from EPG #2 for Channel 3</desc>
+  </programme>
+
+  <programme start="20260512050000 +0000" stop="20260512060000 +0000" channel="channel4">
+    <title>EPG2 - Cooking Show</title>
+    <desc>Program from EPG #2 for Channel 4</desc>
+  </programme>
+  <programme start="20260512060000 +0000" stop="20260512070000 +0000" channel="channel4">
+    <title>EPG2 - Travel Guide</title>
+    <desc>Program from EPG #2 for Channel 4</desc>
+  </programme>
+  <programme start="20260512070000 +0000" stop="20260512080000 +0000" channel="channel4">
+    <title>EPG2 - Nature Doc</title>
+    <desc>Program from EPG #2 for Channel 4</desc>
+  </programme>
+
+  <programme start="20260512050000 +0000" stop="20260512060000 +0000" channel="channel5">
+    <title>EPG2 - Music Video</title>
+    <desc>Program from EPG #2 for Channel 5</desc>
+  </programme>
+  <programme start="20260512060000 +0000" stop="20260512070000 +0000" channel="channel5">
+    <title>EPG2 - Concert Live</title>
+    <desc>Program from EPG #2 for Channel 5</desc>
+  </programme>
+  <programme start="20260512070000 +0000" stop="20260512080000 +0000" channel="channel5">
+    <title>EPG2 - Artist Profile</title>
+    <desc>Program from EPG #2 for Channel 5</desc>
+  </programme>
+
+  <programme start="20260512050000 +0000" stop="20260512060000 +0000" channel="channel6">
+    <title>EPG2 - Sci-Fi Marathon</title>
+    <desc>Program from EPG #2 for Channel 6</desc>
+  </programme>
+  <programme start="20260512060000 +0000" stop="20260512070000 +0000" channel="channel6">
+    <title>EPG2 - Tech Review</title>
+    <desc>Program from EPG #2 for Channel 6</desc>
+  </programme>
+  <programme start="20260512070000 +0000" stop="20260512080000 +0000" channel="channel6">
+    <title>EPG2 - Future World</title>
+    <desc>Program from EPG #2 for Channel 6</desc>
+  </programme>
+</tv>

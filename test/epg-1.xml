@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="Test EPG Generator">
+  <channel id="channel1">
+    <display-name>Channel 1</display-name>
+  </channel>
+  <channel id="channel2">
+    <display-name>Channel 2</display-name>
+  </channel>
+  <channel id="channel3">
+    <display-name>Channel 3</display-name>
+  </channel>
+
+  <programme start="20260512050000 +0000" stop="20260512060000 +0000" channel="channel1">
+    <title>EPG1 - Morning Show</title>
+    <desc>Program from EPG #1 for Channel 1</desc>
+  </programme>
+  <programme start="20260512060000 +0000" stop="20260512070000 +0000" channel="channel1">
+    <title>EPG1 - News Hour</title>
+    <desc>Program from EPG #1 for Channel 1</desc>
+  </programme>
+  <programme start="20260512070000 +0000" stop="20260512080000 +0000" channel="channel1">
+    <title>EPG1 - Talk Show</title>
+    <desc>Program from EPG #1 for Channel 1</desc>
+  </programme>
+
+  <programme start="20260512050000 +0000" stop="20260512060000 +0000" channel="channel2">
+    <title>EPG1 - Sports Highlights</title>
+    <desc>Program from EPG #1 for Channel 2</desc>
+  </programme>
+  <programme start="20260512060000 +0000" stop="20260512070000 +0000" channel="channel2">
+    <title>EPG1 - Movie Block</title>
+    <desc>Program from EPG #1 for Channel 2</desc>
+  </programme>
+  <programme start="20260512070000 +0000" stop="20260512080000 +0000" channel="channel2">
+    <title>EPG1 - Documentary</title>
+    <desc>Program from EPG #1 for Channel 2</desc>
+  </programme>
+
+  <programme start="20260512050000 +0000" stop="20260512060000 +0000" channel="channel3">
+    <title>EPG1 - Cartoon Time</title>
+    <desc>Program from EPG #1 for Channel 3</desc>
+  </programme>
+  <programme start="20260512060000 +0000" stop="20260512070000 +0000" channel="channel3">
+    <title>EPG1 - Drama Series</title>
+    <desc>Program from EPG #1 for Channel 3</desc>
+  </programme>
+  <programme start="20260512070000 +0000" stop="20260512080000 +0000" channel="channel3">
+    <title>EPG1 - Late Night Show</title>
+    <desc>Program from EPG #1 for Channel 3</desc>
+  </programme>
+</tv>

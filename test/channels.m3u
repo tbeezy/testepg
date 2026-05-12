@@ -1,0 +1,37 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="channel1" tvg-name="Channel 1" group-title="Test Category",Channel 1
+http://example.com/stream1
+
+#EXTINF:-1 tvg-id="channel2" tvg-name="Channel 2" group-title="Test Category",Channel 2
+http://example.com/stream2
+
+#EXTINF:-1 tvg-id="channel3" tvg-name="Channel 3" group-title="Test Category",Channel 3
+http://example.com/stream3
+
+#EXTINF:-1 tvg-id="channel4" tvg-name="Channel 4" group-title="Test Category",Channel 4
+http://example.com/stream4
+
+#EXTINF:-1 tvg-id="channel5" tvg-name="Channel 5" group-title="Test Category",Channel 5
+http://example.com/stream5
+
+#EXTINF:-1 tvg-id="channel6" tvg-name="Channel 6" group-title="Test Category",Channel 6
+http://example.com/stream6
+
+#EXTINF:-1 tvg-id="channel7" tvg-name="Channel 7" group-title="Test Category",Channel 7
+http://example.com/stream7
+
+#EXTINF:-1 tvg-id="channel8" tvg-name="Channel 8" group-title="Test Category",Channel 8
+http://example.com/stream8
+
+#EXTINF:-1 tvg-id="channel9" tvg-name="Channel 9" group-title="Test Category",Channel 9
+http://example.com/stream9
+
+#EXTINF:-1 tvg-id="channel10" tvg-name="Channel 10" group-title="Test Category",Channel 10
+http://example.com/stream10
+
+#EXTINF:-1 tvg-id="channel11" tvg-name="Channel 11" group-title="Test Category",Channel 11
+http://example.com/stream11
+
+#EXTINF:-1 tvg-id="channel12" tvg-name="Channel 12" group-title="Test Category",Channel 12
+http://example.com/stream12
