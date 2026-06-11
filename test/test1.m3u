@@ -1,0 +1,41 @@
+#EXTM3U
+
+# ============================================================
+# CATEGORY 1: News
+# ============================================================
+#EXTINF:-1 group-title="News" tvg-id="cnn-fake" tvg-name="FakeNews 24" tvg-logo="",FakeNews 24
+http://fake.iptv.test/stream/news/1
+#EXTINF:-1 group-title="News" tvg-id="bbc-fake" tvg-name="GlobalReport TV" tvg-logo="",GlobalReport TV
+http://fake.iptv.test/stream/news/2
+
+# ============================================================
+# CATEGORY 2: Sports
+# ============================================================
+#EXTINF:-1 group-title="Sports" tvg-id="espn-fake" tvg-name="SportZone HD" tvg-logo="",SportZone HD
+http://fake.iptv.test/stream/sports/1
+#EXTINF:-1 group-title="Sports" tvg-id="fox-sports-fake" tvg-name="ArenaLive TV" tvg-logo="",ArenaLive TV
+http://fake.iptv.test/stream/sports/2
+
+# ============================================================
+# CATEGORY 3: Movies
+# ============================================================
+#EXTINF:-1 group-title="Movies" tvg-id="hbo-fake" tvg-name="CinemaMax Plus" tvg-logo="",CinemaMax Plus
+http://fake.iptv.test/stream/movies/1
+#EXTINF:-1 group-title="Movies" tvg-id="starz-fake" tvg-name="ReelFlix HD" tvg-logo="",ReelFlix HD
+http://fake.iptv.test/stream/movies/2
+
+# ============================================================
+# CATEGORY 4: Kids
+# ============================================================
+#EXTINF:-1 group-title="Kids" tvg-id="cartoon-fake" tvg-name="ToonWorld TV" tvg-logo="",ToonWorld TV
+http://fake.iptv.test/stream/kids/1
+#EXTINF:-1 group-title="Kids" tvg-id="nick-fake" tvg-name="BubbleKids HD" tvg-logo="",BubbleKids HD
+http://fake.iptv.test/stream/kids/2
+
+# ============================================================
+# CATEGORY 5: Documentary
+# ============================================================
+#EXTINF:-1 group-title="Documentary" tvg-id="natgeo-fake" tvg-name="EarthWatch TV" tvg-logo="",EarthWatch TV
+http://fake.iptv.test/stream/doc/1
+#EXTINF:-1 group-title="Documentary" tvg-id="discovery-fake" tvg-name="TrueStory HD" tvg-logo="",TrueStory HD
+http://fake.iptv.test/stream/doc/2
